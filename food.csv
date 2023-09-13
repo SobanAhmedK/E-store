@@ -1,0 +1,1501 @@
+name,price,id,description,priority
+Milk,2327,200,Milk human,1
+Milk,2459,201,Milk NFS,1
+Milk,658,203,Milk whole,1
+Milk,2289,204,Milk low sodium whole,1
+Milk,991,205,Milk calcium fortified whole,1
+Milk,1291,207,Milk calcium fortified low fat (1%),1
+Milk,2619,208,Milk calcium fortified fat free (skim),1
+Milk,2240,209,Milk reduced fat (2%),1
+Milk,1517,210,Milk acidophilus low fat (1%),1
+Milk,2560,212,Milk acidophilus reduced fat (2%),1
+Milk,1131,213,Milk low fat (1%),1
+Milk,2267,214,Milk fat free (skim),1
+Milk,1579,216,Milk lactose free low fat (1%),1
+Milk,1782,217,Milk lactose free fat free (skim),1
+Milk,776,218,Milk lactose free reduced fat (2%),1
+Milk,1698,220,Milk lactose free whole,1
+Buttermilk,2562,221,Buttermilk fat free (skim),1
+Buttermilk,1828,222,Buttermilk low fat (1%),1
+Buttermilk,2233,223,Buttermilk reduced fat (2%),1
+Buttermilk,2732,225,Buttermilk whole,1
+Kefir,2056,226,Kefir NS as to fat content,1
+Goat's milk,2623,227,Goat's milk whole,1
+Milk,2416,229,Milk dry reconstituted NS as to fat content,1
+Milk,944,230,Milk dry reconstituted whole,1
+Milk,674,231,Milk dry reconstituted low fat (1%),1
+Milk,1836,233,Milk dry reconstituted fat free (skim),1
+Milk,1514,234,Milk evaporated NS as to fat content,1
+Milk,2166,235,Milk evaporated whole,1
+Milk,2033,236,Milk evaporated reduced fat (2%),1
+Milk,1223,238,Milk evaporated fat free (skim),1
+Milk,1550,239,Milk condensed sweetened,1
+Non-dairy milk,2921,240,Non-dairy milk NFS,1
+Soy milk,1943,242,Soy milk,1
+Soy milk,1966,243,Soy milk light,1
+Soy milk,2810,244,Soy milk nonfat,1
+Soy milk,690,246,Soy milk chocolate,1
+Soy milk,2219,247,Soy milk light chocolate,1
+Soy milk,944,248,Soy milk nonfat chocolate,1
+Almond milk,2013,249,Almond milk sweetened,1
+Almond milk,1198,251,Almond milk sweetened chocolate,1
+Almond milk,2552,252,Almond milk unsweetened,1
+Almond milk,1709,253,Almond milk unsweetened chocolate,1
+Rice milk,2128,255,Rice milk,1
+Coconut milk,759,256,Coconut milk,1
+Yogurt,909,257,Yogurt NFS,1
+Yogurt,1622,259,Yogurt Greek NS as to type of milk or flavor,1
+Yogurt,2840,260,Yogurt NS as to type of milk or flavor,1
+Yogurt,2967,261,Yogurt NS as to type of milk plain,1
+Yogurt,1678,262,Yogurt whole milk plain,1
+Yogurt,2000,264,Yogurt low fat milk plain,1
+Yogurt,680,265,Yogurt nonfat milk plain,1
+Yogurt,1307,266,Yogurt Greek NS as to type of milk plain,1
+Yogurt,2933,268,Yogurt Greek whole milk plain,1
+Yogurt,1802,269,Yogurt Greek low fat milk plain,1
+Yogurt,1377,270,Yogurt Greek nonfat milk plain,1
+Yogurt,2493,272,Yogurt NS as to type of milk fruit,1
+Yogurt,2677,273,Yogurt whole milk fruit,1
+Yogurt,2173,274,Yogurt low fat milk fruit,1
+Yogurt,1570,275,Yogurt nonfat milk fruit,1
+Yogurt,566,277,Yogurt Greek NS as to type of milk fruit,1
+Yogurt,2595,278,Yogurt Greek whole milk fruit,1
+Yogurt,1336,279,Yogurt Greek low fat milk fruit,1
+Yogurt,2554,281,Yogurt Greek nonfat milk fruit,1
+Yogurt,768,282,Yogurt NS as to type of milk flavors other than fruit,1
+Yogurt,787,283,Yogurt whole milk flavors other than fruit,1
+Yogurt,2477,285,Yogurt low fat milk flavors other than fruit,1
+Yogurt,2996,286,Yogurt nonfat milk flavors other than fruit,1
+Yogurt,2522,287,Yogurt Greek NS as to type of milk flavors other than fruit,1
+Yogurt,1079,288,Yogurt Greek whole milk flavors other than fruit,1
+Yogurt,2582,290,Yogurt Greek low fat milk flavors other than fruit,1
+Yogurt,2161,291,Yogurt Greek nonfat milk flavors other than fruit,1
+Yogurt,2376,292,Yogurt Greek with oats,1
+Yogurt,1674,294,Yogurt liquid,1
+Chipotle dip,709,295,Chipotle dip yogurt based,1
+Dill dip,2253,296,Dill dip yogurt based,1
+Onion dip,1815,298,Onion dip yogurt based,1
+Ranch dip,686,299,Ranch dip yogurt based,1
+Spinach dip,2766,300,Spinach dip yogurt based,1
+Tzatziki dip,2669,301,Tzatziki dip,1
+Vegetable dip,739,303,Vegetable dip yogurt based,1
+Yogurt parfait,1851,304,Yogurt parfait low fat with fruit,1
+Frozen yogurt,1669,305,Frozen yogurt NFS,1
+Frozen yogurt,2533,307,Frozen yogurt vanilla,1
+Frozen yogurt,1755,308,Frozen yogurt chocolate,1
+Frozen yogurt,2976,309,Frozen yogurt soft serve vanilla,1
+Frozen yogurt,836,311,Frozen yogurt soft serve chocolate,1
+Frozen yogurt sandwich,746,312,Frozen yogurt sandwich,1
+Frozen yogurt bar,2844,313,Frozen yogurt bar vanilla,1
+Frozen yogurt bar,2744,314,Frozen yogurt bar chocolate,1
+Frozen yogurt cone,2204,316,Frozen yogurt cone chocolate,1
+Frozen yogurt cone,2962,317,Frozen yogurt cone vanilla,1
+Frozen yogurt cone,588,318,Frozen yogurt cone vanilla waffle cone,1
+Frozen yogurt cone,2742,320,Frozen yogurt cone chocolate waffle cone,1
+Yogurt,2945,321,Yogurt whole milk baby food,1
+Yogurt,604,322,Yogurt whole milk baby food with fruit and multigrain cereal puree NFS,1
+Yogurt,2355,324,Yogurt whole milk baby food with fruit and multigrain cereal puree plus iron,1
+Yogurt,1948,325,Yogurt whole milk baby food with fruit and multigrain cereal puree plus DHA,1
+Chocolate milk,2711,326,Chocolate milk NFS,1
+Chocolate milk,2728,327,Chocolate milk ready to drink whole,1
+Chocolate milk,1693,329,Chocolate milk ready to drink reduced fat,1
+Chocolate milk,2710,330,Chocolate milk ready to drink fat free,1
+Chocolate milk,734,331,Chocolate milk ready to drink low fat,1
+Chocolate milk,1114,333,Chocolate milk ready to drink reduced sugar NS as to milk,1
+Chocolate milk,1690,334,Chocolate milk ready to drink low fat (Nesquik),1
+Chocolate milk,2715,335,Chocolate milk ready to drink fat free (Nesquik),1
+Chocolate milk,2959,337,Chocolate milk ready to drink low fat no sugar added (Nesquik),1
+Hot chocolate / Cocoa,809,338,Hot chocolate / Cocoa ready to drink,1
+Hot chocolate / Cocoa,1262,339,Hot chocolate / Cocoa ready to drink made with nonfat milk,1
+Hot chocolate / Cocoa,1638,340,Hot chocolate / Cocoa ready to drink made with non-dairy milk,1
+Hot chocolate / Cocoa,694,342,Hot chocolate / Cocoa ready to drink with whipped cream,1
+Hot chocolate / Cocoa,953,343,Hot chocolate / Cocoa ready to drink made with nonfat milk and whipped cream,1
+Hot chocolate / Cocoa,2980,344,Hot chocolate / Cocoa ready to drink made with non-dairy milk and whipped cream,1
+Chocolate milk,1656,346,Chocolate milk made from dry mix NS as to type of milk,1
+Chocolate milk,1908,347,Chocolate milk made from dry mix with whole milk,1
+Chocolate milk,1493,348,Chocolate milk made from dry mix with reduced fat milk,1
+Chocolate milk,1896,350,Chocolate milk made from dry mix with low fat milk,1
+Chocolate milk,1896,351,Chocolate milk made from dry mix with fat free milk,1
+Chocolate milk,1284,352,Chocolate milk made from dry mix with non-dairy milk,1
+Chocolate milk,1485,353,Chocolate milk made from reduced sugar mix NS as to type of milk,1
+Chocolate milk,2906,355,Chocolate milk made from reduced sugar mix with whole milk,1
+Chocolate milk,802,356,Chocolate milk made from reduced sugar mix with reduced fat milk,1
+Chocolate milk,1131,357,Chocolate milk made from reduced sugar mix with low fat milk,1
+Chocolate milk,2604,359,Chocolate milk made from reduced sugar mix with fat free milk,1
+Chocolate milk,2538,360,Chocolate milk made from reduced sugar mix with non-dairy milk,1
+Chocolate milk,957,361,Chocolate milk made from dry mix NS as to type of milk (Nesquik),1
+Chocolate milk,1821,363,Chocolate milk made from dry mix with whole milk (Nesquik),1
+Chocolate milk,2099,364,Chocolate milk made from dry mix with reduced fat milk (Nesquik),1
+Chocolate milk,2298,365,Chocolate milk made from dry mix with low fat milk (Nesquik),1
+Chocolate milk,930,366,Chocolate milk made from dry mix with fat free milk (Nesquik),1
+Chocolate milk,1755,368,Chocolate milk made from dry mix with non-dairy milk (Nesquik),1
+Chocolate milk,2976,369,Chocolate milk made from no sugar added dry mix NS as to type of milk (Nesquik),1
+Chocolate milk,1881,370,Chocolate milk made from no sugar added dry mix with whole milk (Nesquik),1
+Chocolate milk,1371,372,Chocolate milk made from no sugar added dry mix with reduced fat milk (Nesquik),1
+Chocolate milk,1560,373,Chocolate milk made from no sugar added dry mix with low fat milk (Nesquik),1
+Chocolate milk,1650,374,Chocolate milk made from no sugar added dry mix with fat free milk  (Nesquik),1
+Chocolate milk,569,376,Chocolate milk made from no sugar added dry mix with non-dairy milk (Nesquik),1
+Chocolate milk,984,377,Chocolate milk made from syrup NS as to type of milk,1
+Chocolate milk,1267,378,Chocolate milk made from syrup with whole milk,1
+Chocolate milk,2967,379,Chocolate milk made from syrup with reduced fat milk,1
+Chocolate milk,2513,381,Chocolate milk made from syrup with low fat milk,1
+Chocolate milk,533,382,Chocolate milk made from syrup with fat free milk,1
+Chocolate milk,2143,383,Chocolate milk made from syrup with non-dairy milk,1
+Chocolate milk,1099,385,Chocolate milk made from light syrup NS as to type of milk,1
+Chocolate milk,2380,386,Chocolate milk made from light syrup with whole milk,1
+Chocolate milk,559,387,Chocolate milk made from light syrup with reduced fat milk,1
+Chocolate milk,753,389,Chocolate milk made from light syrup with low fat milk,1
+Chocolate milk,623,390,Chocolate milk made from light syrup with fat free milk,1
+Chocolate milk,2352,391,Chocolate milk made from light syrup with non-dairy milk,1
+Chocolate milk,1064,392,Chocolate milk made from sugar free syrup NS as to type of milk,1
+Chocolate milk,2014,394,Chocolate milk made from sugar free syrup with whole milk,1
+Chocolate milk,1659,395,Chocolate milk made from sugar free syrup with reduced fat milk,1
+Chocolate milk,1527,396,Chocolate milk made from sugar free syrup with low fat milk,1
+Chocolate milk,1696,398,Chocolate milk made from sugar free syrup with fat free milk,1
+Chocolate milk,1686,399,Chocolate milk made from sugar free syrup with non-dairy milk,1
+Hot chocolate / Cocoa,1342,400,Hot chocolate / Cocoa made with dry mix and water,1
+Hot chocolate / Cocoa,1296,402,Hot chocolate / Cocoa made with dry mix and whole milk,1
+Hot chocolate / Cocoa,1261,403,Hot chocolate / Cocoa made with dry mix and reduced fat milk,1
+Hot chocolate / Cocoa,2493,404,Hot chocolate / Cocoa made with dry mix and low fat milk,1
+Hot chocolate / Cocoa,2008,405,Hot chocolate / Cocoa made with dry mix and fat free milk,1
+Hot chocolate / Cocoa,2569,407,Hot chocolate / Cocoa made with dry mix and non-dairy milk,1
+Hot chocolate / Cocoa,2598,408,Hot chocolate / Cocoa made with no sugar added dry mix and water,1
+Hot chocolate / Cocoa,2141,409,Hot chocolate / Cocoa made with no sugar added dry mix and whole milk,1
+Hot chocolate / Cocoa,1990,411,Hot chocolate / Cocoa made with no sugar added dry mix and reduced fat milk,1
+Hot chocolate / Cocoa,1878,412,Hot chocolate / Cocoa made with no sugar added dry mix and low fat milk,1
+Hot chocolate / Cocoa,1885,413,Hot chocolate / Cocoa made with no sugar added dry mix and fat free milk,1
+Hot chocolate / Cocoa,2628,415,Hot chocolate / Cocoa made with no sugar added dry mix and non-dairy milk,1
+Strawberry milk,506,416,Strawberry milk NFS,1
+Strawberry milk,1979,417,Strawberry milk whole,1
+Strawberry milk,2654,418,Strawberry milk reduced fat,1
+Strawberry milk,1349,420,Strawberry milk low fat,1
+Strawberry milk,2426,421,Strawberry milk fat free,1
+Strawberry milk,786,422,Strawberry milk reduced sugar,1
+Strawberry milk,1829,424,Strawberry milk non-dairy,1
+Milk,744,425,Milk malted,1
+Eggnog,914,426,Eggnog,1
+Milk shake,716,428,Milk shake home recipe chocolate,1
+Milk shake,1382,429,Milk shake home recipe flavors other than chocolate,1
+Milk shake,2005,430,Milk shake home recipe chocolate light,1
+Milk shake,2902,431,Milk shake home recipe flavors other than chocolate light,1
+Milk shake with malt,1813,433,Milk shake with malt,1
+Milk shake,2459,434,Milk shake fast food chocolate,1
+Milk shake,2801,435,Milk shake fast food flavors other than chocolate,1
+Milk shake,1750,437,Milk shake bottled chocolate,1
+Milk shake,633,438,Milk shake bottled flavors other than chocolate,1
+Licuado or Batido,2816,439,Licuado or Batido,1
+Fruit smoothie,1509,441,Fruit smoothie NFS,1
+Fruit smoothie,1102,442,Fruit smoothie with whole fruit and dairy,1
+Fruit smoothie,2423,443,Fruit smoothie with whole fruit and dairy added protein,1
+Fruit smoothie juice drink,2200,444,Fruit smoothie juice drink with dairy,1
+Chocolate milk drink,2051,446,Chocolate milk drink,1
+Infant formula,685,447,Infant formula NFS,1
+Infant formula,727,448,Infant formula NS as to form (Similac Expert Care Alimentum),1
+Infant formula,1735,450,Infant formula ready-to-feed (Similac Expert Care Alimentum),1
+Infant formula,687,451,Infant formula powder made with water NFS (Similac Expert Care Alimentum),1
+Infant formula,2160,452,Infant formula powder made with tap water (Similac Expert Care Alimentum),1
+Infant formula,2086,454,Infant formula powder made with plain bottled water (Similac Expert Care Alimentum),1
+Infant formula,2856,455,Infant formula powder made with baby water (Similac Expert Care Alimentum),1
+Infant formula,2133,456,Infant formula NS as to form (Similac Advance),1
+Infant formula,992,457,Infant formula ready-to-feed (Similac Advance),1
+Infant formula,884,459,Infant formula liquid concentrate made with water NFS (Similac Advance),1
+Infant formula,960,460,Infant formula powder made with water NFS (Similac Advance),1
+Infant formula,2939,461,Infant formula liquid concentrate made with tap water (Similac Advance),1
+Infant formula,2996,463,Infant formula liquid concentrate made with plain bottled water (Similac Advance),1
+Infant formula,1400,464,Infant formula liquid concentrate made with baby water (Similac Advance),1
+Infant formula,1956,465,Infant formula powder made with tap water (Similac Advance),1
+Infant formula,2714,467,Infant formula powder made with plain bottled water (Similac Advance),1
+Infant formula,1225,468,Infant formula powder made with baby water (Similac Advance),1
+Infant formula,1619,469,Infant formula NS as to form (Similac Advance Organic),1
+Infant formula,1715,470,Infant formula ready-to-feed (Similac Advance Organic),1
+Infant formula,1030,472,Infant formula powder made with water NFS (Similac Advance Organic),1
+Infant formula,2190,473,Infant formula powder made with tap water (Similac Advance Organic),1
+Infant formula,1011,474,Infant formula powder made with plain bottled water (Similac Advance Organic),1
+Infant formula,1859,476,Infant formula powder made with baby water (Similac Advance Organic),1
+Infant formula,1901,477,Infant formula NS as to form (Similac Sensitive),1
+Infant formula,860,478,Infant formula ready-to-feed (Similac Sensitive),1
+Infant formula,2461,480,Infant formula liquid concentrate made with water NFS (Similac Sensitive),1
+Infant formula,2006,481,Infant formula powder made with water NFS (Similac Sensitive),1
+Infant formula,1305,482,Infant formula liquid concentrate made with tap water (Similac Sensitive),1
+Infant formula,2382,483,Infant formula liquid concentrate made with plain bottled water (Similac Sensitive),1
+Infant formula,2328,485,Infant formula liquid concentrate made with baby water (Similac Sensitive),1
+Infant formula,2547,486,Infant formula powder made with tap water (Similac Sensitive),1
+Infant formula,1578,487,Infant formula powder made with plain bottled water (Similac Sensitive),1
+Infant formula,1340,489,Infant formula powder made with baby water (Similac Sensitive),1
+Infant formula,1170,490,Infant formula NS as to form (Similac for Spit-Up),1
+Infant formula,2139,491,Infant formula ready-to-feed (Similac for Spit-Up),1
+Infant formula,1462,493,Infant formula powder made with water NFS (Similac for Spit-Up),1
+Infant formula,927,494,Infant formula NS as to form (Similac Expert Care NeoSure),1
+Infant formula,1412,495,Infant formula ready-to-feed (Similac Expert Care NeoSure),1
+Infant formula,2711,496,Infant formula powder made with water NFS (Similac Expert Care NeoSure),1
+Infant formula,1993,498,Infant formula powder made with tap water (Similac Expert Care NeoSure),1
+Infant formula,1071,499,Infant formula powder made with plain bottled water (Similac Expert Care NeoSure),1
+Infant formula,2910,500,Infant formula powder made with baby water (Similac Expert Care NeoSure),1
+Infant formula,1839,502,Infant formula NS as to form (Similac Go and Grow),1
+Infant formula,882,503,Infant formula powder made with water NFS (Similac Go and Grow),1
+Infant formula,1809,504,Infant formula NS as to form (Enfamil Newborn),1
+Infant formula,1931,506,Infant formula ready-to-feed (Enfamil Newborn),1
+Infant formula,1900,507,Infant formula powder made with water NFS (Enfamil Newborn),1
+Infant formula,1421,508,Infant formula powder made with tap water (Enfamil Newborn),1
+Infant formula,2437,509,Infant formula powder made with plain bottled water (Enfamil Newborn),1
+Infant formula,1044,511,Infant formula powder made with baby water (Enfamil Newborn),1
+Infant formula,2341,512,Infant formula NS as to form (Enfamil Infant),1
+Infant formula,804,513,Infant formula ready-to-feed (Enfamil Infant),1
+Infant formula,2648,515,Infant formula liquid concentrate made with water NFS (Enfamil Infant),1
+Infant formula,1751,516,Infant formula liquid concentrate made with tap water (Enfamil Infant),1
+Infant formula,989,517,Infant formula liquid concentrate made with plain bottled water (Enfamil Infant),1
+Infant formula,1000,519,Infant formula liquid concentrate made with baby water (Enfamil Infant),1
+Infant formula,568,520,Infant formula powder made with water NFS (Enfamil Infant),1
+Infant formula,515,521,Infant formula powder made with tap water (Enfamil Infant),1
+Infant formula,545,522,Infant formula powder made with plain bottled water (Enfamil Infant),1
+Infant formula,2805,524,Infant formula powder made with baby water (Enfamil Infant),1
+Infant formula,1562,525,Infant formula NS as to form (Enfamil A.R.),1
+Infant formula,910,526,Infant formula ready-to-feed (Enfamil A.R.),1
+Infant formula,755,528,Infant formula powder made with water NFS (Enfamil A.R.),1
+Infant formula,2495,529,Infant formula powder made with tap water (Enfamil A.R.),1
+Infant formula,1432,530,Infant formula NS as to form (Enfamil EnfaCare),1
+Infant formula,2549,532,Infant formula ready-to-feed (Enfamil EnfaCare),1
+Infant formula,2919,533,Infant formula powder made with water NFS (Enfamil EnfaCare),1
+Infant formula,2871,534,Infant formula powder made with plain bottled water (Enfamil A.R.),1
+Infant formula,2418,535,Infant formula powder made with baby water (Enfamil A.R.),1
+Infant formula,2640,537,Infant formula NS as to form (Enfamil Gentlease),1
+Infant formula,2105,538,Infant formula ready-to-feed (Enfamil Gentlease),1
+Infant formula,2461,539,Infant formula powder made with water NFS (Enfamil Gentlease),1
+Infant formula,972,541,Infant formula powder made with tap water (Enfamil EnfaCare),1
+Infant formula,956,542,Infant formula powder made with plain bottled water (Enfamil EnfaCare),1
+Infant formula,1011,543,Infant formula powder made with baby water (Enfamil EnfaCare),1
+Infant formula,2469,545,Infant formula powder made with tap water (Enfamil Gentlease),1
+Infant formula,1559,546,Infant formula powder made with plain bottled water (Enfamil Gentlease),1
+Infant formula,1079,547,Infant formula powder made with baby water (Enfamil Gentlease),1
+Infant formula,2941,548,Infant formula NS as to form (Enfamil Enfagrow Toddler Transitions),1
+Infant formula,1287,550,Infant formula ready-to-feed (Enfamil Enfragrow Toddler Transitions),1
+Infant formula,1566,551,Infant formula powder made with water NFS (Enfamil Enfragrow Toddler Transitions),1
+Infant formula,1603,552,Infant formula powder made with tap water (Enfamil Enfagrow Toddler Transitions),1
+Infant formula,1233,554,Infant formula powder made with plain bottled water (Enfamil Enfagrow Toddler Transitions),1
+Infant formula,1663,555,Infant formula powder made with baby water (Enfamil Enfagrow Toddler Transitions),1
+Infant formula,2081,556,Infant formula NS as to form (Enfamil Enfagrow Toddler Transitions Gentlease),1
+Infant formula,854,558,Infant formula powder made with water NFS (Enfamil Enfagrow Toddler Transitions Gentlease),1
+Infant formula,2840,559,Infant formula powder made with tap water (Enfamil Enfagrow Toddler Transitions Gentlease),1
+Infant formula,970,560,Infant formula powder made with plain bottled water (Enfamil Enfagrow Toddler Transitions Gentlease),1
+Infant formula,2011,561,Infant formula powder made with baby water (Enfamil Enfagrow Toddler Transitions Gentlease),1
+Infant formula,2607,563,Infant formula NS as to form (PediaSure),1
+Infant formula,829,564,Infant formula ready-to-feed (PediaSure),1
+Infant formula,2025,565,Infant formula with fiber NS as to form (PediaSure Fiber),1
+Infant formula,2395,567,Infant formula with fiber ready-to-feed (PediaSure Fiber),1
+Infant formula,1893,568,Infant formula NS as to form (Gerber Good Start Gentle),1
+Infant formula,1575,569,Infant formula ready-to-feed (Gerber Good Start Gentle),1
+Infant formula,712,571,Infant formula liquid concentrate made with water NFS (Gerber Good Start Gentle),1
+Infant formula,1311,572,Infant formula powder made with water NFS (Gerber Good Start Gentle),1
+Infant formula,2440,573,Infant formula liquid concentrate made with tap water (Gerber Good Start Gentle),1
+Infant formula,1890,574,Infant formula liquid concentrate made with plain bottled water (Gerber Good Start Gentle),1
+Infant formula,1329,576,Infant formula liquid concentrate made with baby water (Gerber Good Start Gentle),1
+Infant formula,2969,577,Infant formula powder made with tap water (Gerber Good Start Gentle),1
+Infant formula,2916,578,Infant formula powder made with plain bottled water (Gerber Good Start Gentle),1
+Infant formula,1889,580,Infant formula powder made with baby water (Gerber Good Start Gentle),1
+Infant formula,649,581,Infant formula NS as to form (Gerber Good Start Protect),1
+Infant formula,2705,582,Infant formula powder made with water NFS (Gerber Good Start Protect),1
+Infant formula,1841,584,Infant formula powder made with tap water (Gerber Good Start Protect),1
+Infant formula,1553,585,Infant formula powder made with plain bottled water (Gerber Good Start Protect),1
+Infant formula,1205,586,Infant formula powder made with baby water (Gerber Good Start Protect),1
+Infant formula,2049,587,Infant formula NS as to form (Gerber Graduates Gentle),1
+Infant formula,2933,589,Infant formula NS as to form (Gerber Graduates Protect),1
+Infant formula,2535,590,Infant formula NS as to form (Store Brand),1
+Infant formula,2103,591,Infant formula liquid concentrate made with water NFS (Store Brand),1
+Infant formula,534,593,Infant formula powder made with water NFS (Store Brand),1
+Infant formula,541,594,Infant formula ready-to-feed (Store Brand),1
+Infant formula,639,595,Infant formula liquid concentrate made with tap water (Store Brand),1
+Infant formula,2774,597,Infant formula liquid concentrate made with plain bottled water (Store Brand),1
+Infant formula,2597,598,Infant formula liquid concentrate made with baby water (Store Brand),1
+Infant formula,1496,599,Infant formula powder made with tap water (Store Brand),1
+Infant formula,2321,600,Infant formula powder made with plain bottled water (Store Brand),1
+Infant formula,2014,602,Infant formula powder made with baby water (Store Brand),1
+Infant formula,758,603,Infant formula NS as to form (Enfamil ProSobee),1
+Infant formula,2155,604,Infant formula ready-to-feed (Enfamil ProSobee),1
+Infant formula,1969,606,Infant formula liquid concentrate made with water NFS (Enfamil ProSobee),1
+Infant formula,2535,607,Infant formula powder made with water NFS (Enfamil ProSobee),1
+Infant formula,824,608,Infant formula liquid concentrate made with tap water (Enfamil ProSobee),1
+Infant formula,2894,610,Infant formula liquid concentrate made with plain bottled water (Enfamil ProSobee),1
+Infant formula,2517,611,Infant formula liquid concentrate made with baby water (Enfamil ProSobee),1
+Infant formula,558,612,Infant formula powder made with tap water (Enfamil ProSobee),1
+Infant formula,2752,613,Infant formula powder made with plain bottled water (Enfamil ProSobee),1
+Infant formula,2114,615,Infant formula powder made with baby water (Enfamil ProSobee),1
+Infant formula,1259,616,Infant formula NS as to form (Enfamil Enfagrow Toddler Transitions Soy),1
+Infant formula,2538,617,Infant formula powder made with water NFS (Enfamil Enfagrow Toddler Transitions Soy),1
+Infant formula,1605,619,Infant formula NS as to form (Similac Isomil Soy),1
+Infant formula,2672,620,Infant formula ready-to-feed (Similac Isomil Soy),1
+Infant formula,2843,621,Infant formula liquid concentrate made with water NFS (Similac Isomil Soy),1
+Infant formula,2675,623,Infant formula powder made with water NFS (Similac Isomil Soy),1
+Infant formula,805,624,Infant formula liquid concentrate made with tap water (Similac Isomil Soy),1
+Infant formula,2269,625,Infant formula liquid concentrate made with plain bottled water (Similac Isomil Soy),1
+Infant formula,1685,626,Infant formula liquid concentrate made with baby water (Similac Isomil Soy),1
+Infant formula,703,628,Infant formula powder made with tap water (Similac Isomil Soy),1
+Infant formula,2582,629,Infant formula powder made with plain bottled water (Similac Isomil Soy),1
+Infant formula,1968,630,Infant formula powder made with baby water (Similac Isomil Soy),1
+Infant formula,2112,632,Infant formula NS as to form (Similac Expert Care for Diarrhea),1
+Infant formula,1228,633,Infant formula ready-to-feed (Similac Expert Care for Diarrhea),1
+Infant formula,1133,634,Infant formula NS as to form (Gerber Good Start Soy),1
+Infant formula,1199,636,Infant formula ready-to-feed (Gerber Good Start Soy),1
+Infant formula,2627,637,Infant formula liquid concentrate made with water NFS (Gerber Good Start Soy),1
+Infant formula,2447,638,Infant formula powder made with water NFS (Gerber Good Start Soy),1
+Infant formula,2763,639,Infant formula liquid concentrate made with tap water (Gerber Good Start Soy),1
+Infant formula,1988,641,Infant formula liquid concentrate made with plain bottled water (Gerber Good Start Soy),1
+Infant formula,2065,642,Infant formula liquid concentrate made with baby water (Gerber Good Start Soy),1
+Infant formula,2653,643,Infant formula powder made with tap water (Gerber Good Start Soy),1
+Infant formula,2861,645,Infant formula powder made with plain bottled water (Gerber Good Start Soy),1
+Infant formula,2566,646,Infant formula powder made with baby water (Gerber Good Start Soy),1
+Infant formula,2218,647,Infant formula NS as to form (Gerber Graduates Soy),1
+Infant formula,1960,649,Infant formula NS as to form (Store Brand Soy),1
+Infant formula,883,650,Infant formula ready-to-feed (Store brand Soy),1
+Infant formula,1934,651,Infant formula liquid concentrate made with water NFS (Store Brand Soy),1
+Infant formula,1811,652,Infant formula powder made with water NFS (Store Brand Soy),1
+Infant formula,534,654,Infant formula powder made with tap water (Store Brand Soy),1
+Infant formula,2234,655,Infant formula powder made with plain bottled water (Store Brand Soy),1
+Infant formula,2386,656,Infant formula powder made with baby water (Store Brand Soy),1
+Infant formula,2420,658,Infant formula NS as to form (Enfamil Nutramigen),1
+Infant formula,910,659,Infant formula ready-to-feed (Enfamil Nutramigen),1
+Infant formula,817,660,Infant formula liquid concentrate made with water NFS (Enfamil Nutramigen),1
+Infant formula,1210,662,Infant formula powder made with water NFS (Enfamil Nutramigen),1
+Infant formula,1873,663,Infant formula NS as to form (PurAmino),1
+Infant formula,1694,664,Infant formula powder made with water NFS (PurAmino),1
+Infant formula,1391,665,Infant formula NS as to form (Enfamil Pregestimil),1
+Infant formula,2845,667,Infant formula ready-to-feed (Enfamil Pregestimil),1
+Infant formula,2523,668,Infant formula powder made with water NFS (Enfamil Pregestimil),1
+Infant formula,1521,669,Infant formula ready-to-feed low iron (Enfamil Premature 20 Cal),1
+Infant formula,2948,671,Infant formula ready-to-feed with iron (Enfamil Premature 20 Cal),1
+Milk,1043,672,Milk dry not reconstituted NS as to fat content,1
+Milk,1468,673,Milk dry not reconstituted whole,1
+Milk,2604,675,Milk dry not reconstituted low fat (1%),1
+Milk,2349,676,Milk dry not reconstituted fat free (skim),1
+Whey,2650,677,Whey sweet dry,1
+Cocoa powder,1956,678,Cocoa powder not reconstituted,1
+Chocolate beverage powder,2781,680,Chocolate beverage powder dry mix not reconstituted,1
+Chocolate beverage powder,1019,681,Chocolate beverage powder light dry mix not reconstituted,1
+Milk,2549,682,Milk malted dry mix not reconstituted,1
+Strawberry beverage powder,2066,684,Strawberry beverage powder dry mix not reconstituted,1
+Cream,2008,685,Cream NS as to light heavy or half and half,1
+Cream,2627,686,Cream light,1
+Cream,1428,688,Cream half and half,1
+Cream,2345,689,Cream half and half flavored,1
+Cream,1691,690,Cream half and half fat free,1
+Cream,2902,691,Cream heavy,1
+Cream,746,693,Cream whipped,1
+Coffee creamer,2769,694,Coffee creamer NFS,1
+Coffee creamer,515,695,Coffee creamer liquid,1
+Coffee creamer,2323,697,Coffee creamer liquid flavored,1
+Coffee creamer,835,698,Coffee creamer liquid fat free,1
+Coffee creamer,1107,699,Coffee creamer liquid fat free flavored,1
+Coffee creamer,2890,701,Coffee creamer liquid fat free sugar free flavored,1
+Coffee creamer,1522,702,Coffee creamer liquid sugar free flavored,1
+Coffee creamer,2935,703,Coffee creamer powder,1
+Coffee creamer,1057,704,Coffee creamer powder flavored,1
+Coffee creamer,2114,706,Coffee creamer powder fat free,1
+Coffee creamer,2550,707,Coffee creamerpowder fat free flavored,1
+Coffee creamer,2689,708,Coffee creamerpowder sugar free flavored,1
+Coffee creamer,1984,710,Coffee creamer soy liquid,1
+Whipped topping,692,711,Whipped topping,1
+Whipped topping,1362,712,Whipped topping fat free,1
+Whipped topping,1371,714,Whipped topping sugar free,1
+Sour cream,1284,715,Sour cream regular,1
+Sour cream,2305,716,Sour cream light,1
+Sour cream,2720,717,Sour cream fat free,1
+Sour cream,642,719,Sour cream imitation,1
+Dip,2231,720,Dip NFS,1
+Chipotle dip,792,721,Chipotle dip regular,1
+Chipotle dip,2758,723,Chipotle dip light,1
+Dill dip,532,724,Dill dip regular,1
+Dill dip,2689,725,Dill dip light,1
+Onion dip,2906,727,Onion dip regular,1
+Onion dip,2207,728,Onion dip light,1
+Ranch dip,1320,729,Ranch dip regular,1
+Ranch dip,2811,730,Ranch dip light,1
+Spinach dip,2218,732,Spinach dip regular,1
+Spinach dip,2509,733,Spinach dip light,1
+Vegetable dip,953,734,Vegetable dip regular,1
+Vegetable dip,2837,736,Vegetable dip light,1
+Ice cream,968,737,Ice cream NFS,1
+Ice cream,785,738,Ice cream vanilla,1
+Ice cream,1768,740,Ice cream vanilla with additional ingredients,1
+Ice cream,1368,741,Ice cream chocolate,1
+Ice cream,2439,742,Ice cream chocolate with additional ingredients,1
+Ice cream,539,743,Ice cream soft serve vanilla,1
+Ice cream,1401,745,Ice cream soft serve chocolate,1
+Gelato,2778,746,Gelato vanilla,1
+Gelato,1681,747,Gelato chocolate,1
+Ice cream bar,2357,749,Ice cream bar vanilla,1
+Ice cream bar,733,750,Ice cream bar vanilla chocolate coated,1
+Ice cream candy bar,808,751,Ice cream candy bar,1
+Ice cream bar,1577,753,Ice cream bar chocolate,1
+Ice cream sandwich,1607,754,Ice cream sandwich vanilla,1
+Ice cream sandwich,919,755,Ice cream sandwich chocolate,1
+Ice cream cookie sandwich,2452,756,Ice cream cookie sandwich,1
+Ice cream cone,929,758,Ice cream cone scooped vanilla,1
+Ice cream cone,2834,759,Ice cream cone scooped vanilla waffle cone,1
+Ice cream cone,1173,760,Ice cream cone NFS,1
+Ice cream cone,1273,762,Ice cream cone scooped chocolate,1
+Ice cream cone,1471,763,Ice cream cone scooped chocolate waffle cone,1
+Ice cream cone,2764,764,Ice cream cone soft serve vanilla,1
+Ice cream cone,1284,766,Ice cream cone soft serve chocolate,1
+Ice cream cone,518,767,Ice cream cone soft serve vanilla waffle cone,1
+Ice cream cone,2999,768,Ice cream cone soft serve chocolate waffle cone,1
+Ice cream cone,738,769,Ice cream cone vanilla prepackaged,1
+Ice cream cone,560,771,Ice cream cone chocolate prepackaged,1
+Ice cream soda,1846,772,Ice cream soda flavors other than chocolate,1
+Ice cream soda,2338,773,Ice cream soda chocolate,1
+Ice cream sundae,2080,775,Ice cream sundae NFS,1
+Ice cream sundae,2396,776,Ice cream sundae fruit topping,1
+Banana split,1399,777,Banana split,1
+Ice cream sundae,1409,779,Ice cream sundae hot fudge topping,1
+Ice cream sundae,2934,780,Ice cream sundae caramel topping,1
+Ice cream,1650,781,Ice cream fried,1
+Light ice cream,2436,782,Light ice cream NFS,1
+Light ice cream,1295,784,Light ice cream vanilla,1
+Light ice cream,1404,785,Light ice cream chocolate,1
+Soft serve,2559,786,Soft serve blended with candy or cookies from fast food,1
+Light ice cream sandwich,2197,788,Light ice cream sandwich vanilla,1
+Light ice cream sandwich,2976,789,Light ice cream sandwich chocolate,1
+Light ice cream bar,2945,790,Light ice cream bar vanilla,1
+Light ice cream bar,1658,792,Light ice cream bar vanilla chocolate coated,1
+Light ice cream bar,2154,793,Light ice cream bar chocolate,1
+Creamsicle,2834,794,Creamsicle,1
+Creamsicle,2464,795,Creamsicle light,1
+Fudgesicle,1161,797,Fudgesicle,1
+Light ice cream cone,2319,798,Light ice cream cone vanilla prepackaged,1
+Light ice cream cone,883,799,Light ice cream cone chocolate prepackaged,1
+Sherbet,2279,801,Sherbet all flavors,1
+Fudgesicle,2214,802,Fudgesicle light,1
+Pudding,1176,803,Pudding chocolate NFS,1
+Pudding,1909,805,Pudding bread,1
+Pudding,2909,806,Pudding flavors other than chocolate NFS,1
+Custard,527,807,Custard,1
+Flan,2641,808,Flan,1
+Creme brulee,1985,810,Creme brulee,1
+Pudding,1760,811,Pudding rice,1
+Firni,2068,812,Firni Indian pudding,1
+Pudding,1656,814,Pudding tapioca made from dry mix,1
+Pudding,2114,815,Pudding flavors other than chocolate made from dry mix,1
+Pudding,2866,816,Pudding chocolate made from dry mix,1
+Pudding,541,818,Pudding flavors other than chocolate made from dry mix sugar free,1
+Pudding,1096,819,Pudding chocolate made from dry mix sugar free,1
+Pudding,792,820,Pudding flavors other than chocolate ready-to-eat,1
+Pudding,854,821,Pudding flavors other than chocolate ready-to-eat sugar free,1
+Pudding,1360,823,Pudding chocolate ready-to-eat,1
+Pudding,850,824,Pudding chocolate ready-to-eat sugar free,1
+Pudding,705,825,Pudding tapioca ready-to-eat,1
+Banana pudding,2309,827,Banana pudding,1
+Mousse,2716,828,Mousse,1
+Milk dessert or milk candy,2161,829,Milk dessert or milk candy Puerto Rican style,1
+Barfi or Burfi,643,831,Barfi or Burfi Indian dessert,1
+Trifle,1622,832,Trifle,1
+Tiramisu,2891,833,Tiramisu,1
+Custard pudding,2757,834,Custard pudding flavor other than chocolate baby food NS as to strained or junior,1
+Custard pudding,1187,836,Custard pudding baby food flavor other than chocolate strained,1
+Custard pudding,1044,837,Custard pudding baby food flavor other than chocolate junior,1
+White sauce or gravy,688,838,White sauce or gravy,1
+Cheese,1602,840,Cheese NFS,1
+Cheese,1350,841,Cheese Blue or Roquefort,1
+Cheese,1374,842,Cheese Brick,1
+Cheese,2494,844,Cheese Camembert,1
+Cheese,673,845,Cheese Brie,1
+Cheese,1042,846,Cheese Cheddar,1
+Cheese,1644,847,Cheese Cheddar reduced fat,1
+Cheese,2528,849,Cheese Cheddar nonfat or fat free,1
+Cheese,1189,850,Cheese Colby,1
+Cheese,2215,851,Cheese Colby Jack,1
+Cheese,777,853,Cheese Feta,1
+Cheese,1132,854,Cheese Fontina,1
+Cheese,989,855,Cheese goat,1
+Cheese,1365,857,Cheese Gouda or Edam,1
+Cheese,1545,858,Cheese Gruyere,1
+Cheese,2040,859,Cheese Limburger,1
+Cheese,2100,860,Cheese Monterey,1
+Cheese,2372,862,Cheese Monterey reduced fat,1
+Cheese,2349,863,Cheese Mozzarella NFS,1
+Cheese,1857,864,Cheese Mozzarella part skim,1
+Cheese,2135,866,Cheese Mozzarella reduced sodium,1
+Cheese,2160,867,Cheese Mozzarella nonfat or fat free,1
+Cheese,519,868,Cheese Muenster,1
+Cheese,654,870,Cheese Muenster reduced fat,1
+Cheese,1009,871,Cheese Parmesan dry grated,1
+Cheese,2513,872,Cheese Parmesan dry grated reduced fat,1
+Cheese,1441,873,Cheese Parmesan hard,1
+Cheese,1040,875,Cheese Parmesan dry grated fat free,1
+Cheese,943,876,Cheese Port du Salut,1
+Cheese,2653,877,Cheese Provolone,1
+Cheese,1034,879,Cheese provolone reduced fat,1
+Cheese,2067,880,Cheese Swiss,1
+Cheese,1975,881,Cheese Swiss reduced sodium,1
+Cheese,2369,883,Cheese Swiss reduced fat,1
+Cheese,1969,884,Cheese Swiss nonfat or fat free,1
+Cheese,1133,885,Cheese Cheddar reduced sodium,1
+Cheese,789,886,Cheese Mexican blend,1
+Cheese,572,888,Cheese Mexican blend reduced fat,1
+Queso Anejo,1080,889,Queso Anejo aged Mexican cheese,1
+Queso Asadero,1575,890,Queso Asadero,1
+Queso Fresco,2330,892,Queso Fresco,1
+Queso cotija,704,893,Queso cotija,1
+Cheese,2823,894,Cheese cottage NFS,1
+Cheese,2118,896,Cheese cottage creamed large or small curd,1
+Cottage cheese,527,897,Cottage cheese farmer's,1
+Cheese,1193,898,Cheese Ricotta,1
+Cheese,1778,899,Cheese cottage with fruit,1
+Cheese,923,901,Cheese cottage with vegetables,1
+Cheese,2089,902,Cheese cottage dry curd,1
+Cheese,2649,903,Cheese cottage salted dry curd,1
+Puerto Rican white cheese,2616,905,Puerto Rican white cheese,1
+Cheese,1019,906,Cheese cottage low fat,1
+Cheese,2776,907,Cheese cottage lowfat with fruit,1
+Cheese,2859,909,Cheese cottage lowfat low sodium,1
+Cheese,1030,910,Cheese cottage lowfat lactose reduced,1
+Cream cheese,668,911,Cream cheese regular plain,1
+Cream cheese,2533,912,Cream cheese regular flavored,1
+Cream cheese,1842,914,Cream cheese light,1
+Cheese,2765,915,Cheese American and Swiss blends,1
+Cheese,2740,916,Cheese American,1
+Cheese,672,918,Cheese American reduced fat,1
+Cheese,2379,919,Cheese American nonfat or fat free,1
+Cheese,2701,920,Cheese American reduced sodium,1
+Cheese spread,547,922,Cheese spread American or Cheddar cheese base reduced fat,1
+Cream cheese spread,661,923,Cream cheese spread fat free,1
+Cheese,797,924,Cheese processed cheese food,1
+Cheese,2037,925,Cheese processed with vegetables,1
+Cheese,758,927,Cheese  with wine,1
+Cheese spread,2111,928,Cheese spread American or Cheddar cheese base,1
+Cheese spread,1115,929,Cheese spread Swiss cheese base,1
+Cheese spread,942,931,Cheese spread cream cheese regular,1
+Cheese spread,593,932,Cheese spread cream cheese light,1
+Cheese spread,2666,933,Cheese spread pressurized can,1
+Imitation cheese,1707,935,Imitation cheese,1
+Cheese,1410,936,Cheese cottage cheese with gelatin dessert,1
+Cheese,2584,937,Cheese cottage cheese with gelatin dessert and fruit,1
+Cheese,677,938,Cheese cottage cheese with gelatin dessert and vegetables,1
+Cheese ball,548,940,Cheese ball,1
+Artichoke dip,1464,941,Artichoke dip,1
+Spinach and artichoke dip,907,942,Spinach and artichoke dip,1
+Seafood dip,2705,944,Seafood dip,1
+Cheese dip with chili pepper,798,945,Cheese dip with chili pepper,1
+Cheese dip,2286,946,Cheese dip,1
+Topping from cheese pizza,2642,948,Topping from cheese pizza,1
+Topping from vegetable pizza,1025,949,Topping from vegetable pizza,1
+Topping from meat pizza,2094,950,Topping from meat pizza,1
+Topping from meat and vegetable pizza,2271,951,Topping from meat and vegetable pizza,1
+Cheese fondue,2522,953,Cheese fondue,1
+Cheese souffle,593,954,Cheese souffle,1
+Welsh rarebit,1158,955,Welsh rarebit,1
+Cheese sandwich,2781,957,Cheese sandwich NFS,1
+Cheese sandwich,2234,958,Cheese sandwich American cheese on white bread no spread,1
+Cheese sandwich,689,959,Cheese sandwich American cheese on wheat bread no spread,1
+Cheese sandwich,2404,961,Cheese sandwich American cheese on whole wheat bread no spread,1
+Cheese sandwich,2920,962,Cheese sandwich Cheddar cheese on white bread no spread,1
+Cheese sandwich,2976,963,Cheese sandwich Cheddar cheese on wheat bread no spread,1
+Cheese sandwich,1313,964,Cheese sandwich Cheddar cheese on whole wheat bread no spread,1
+Cheese sandwich,2638,966,Cheese sandwich reduced fat American cheese on white bread no spread,1
+Cheese sandwich,1201,967,Cheese sandwich reduced fat American cheese on wheat bread no spread,1
+Cheese sandwich,979,968,Cheese sandwich reduced fat American cheese on whole wheat bread no spread,1
+Cheese sandwich,2498,970,Cheese sandwich reduced fat Cheddar cheese on white bread no spread,1
+Cheese sandwich,1082,971,Cheese sandwich reduced fat Cheddar cheese on wheat bread no spread,1
+Cheese sandwich,2104,972,Cheese sandwich reduced fat Cheddar cheese on whole wheat bread no spread,1
+Cheese sandwich,2736,974,Cheese sandwich American cheese on white bread with mayonnaise,1
+Cheese sandwich,538,975,Cheese sandwich American cheese on wheat bread with mayonnaise,1
+Cheese sandwich,2332,976,Cheese sandwich American cheese on whole wheat bread with mayonnaise,1
+Cheese sandwich,1875,977,Cheese sandwich Cheddar cheese on white bread with mayonnaise,1
+Cheese sandwich,731,979,Cheese sandwich Cheddar cheese on wheat bread with mayonnaise,1
+Cheese sandwich,2619,980,Cheese sandwich Cheddar cheese on whole wheat bread with mayonnaise,1
+Cheese sandwich,1146,981,Cheese sandwich reduced fat American cheese on white bread with mayonnaise,1
+Cheese sandwich,1773,983,Cheese sandwich reduced fat American cheese on wheat bread with mayonnaise,1
+Cheese sandwich,2226,984,Cheese sandwich reduced fat American cheese on whole wheat bread with mayonnaise,1
+Cheese sandwich,2174,985,Cheese sandwich reduced fat Cheddar cheese on white bread with mayonnaise,1
+Cheese sandwich,1690,987,Cheese sandwich reduced fat Cheddar cheese on wheat bread with mayonnaise,1
+Cheese sandwich,2380,988,Cheese sandwich reduced fat Cheddar cheese on whole wheat bread with mayonnaise,1
+Cheese sandwich,2820,989,Cheese sandwich American cheese on white bread with butter,1
+Cheese sandwich,707,990,Cheese sandwich American cheese on wheat bread with butter,1
+Cheese sandwich,1039,992,Cheese sandwich American cheese on whole wheat bread with butter,1
+Cheese sandwich,1757,993,Cheese sandwich Cheddar cheese on white bread with butter,1
+Cheese sandwich,1016,994,Cheese sandwich Cheddar cheese on wheat bread with butter,1
+Cheese sandwich,917,996,Cheese sandwich Cheddar cheese on whole wheat bread with butter,1
+Cheese sandwich,1404,997,Cheese sandwich reduced fat American cheese on white bread with butter,1
+Cheese sandwich,2494,998,Cheese sandwich reduced fat American cheese on wheat bread with butter,1
+Cheese sandwich,1176,1000,Cheese sandwich reduced fat American cheese on whole wheat bread with butter,1
+Cheese sandwich,1263,1001,Cheese sandwich reduced fat Cheddar cheese on white bread with butter,1
+Cheese sandwich,1925,1002,Cheese sandwich reduced fat Cheddar cheese on wheat bread with butter,1
+Cheese sandwich,2479,1003,Cheese sandwich reduced fat Cheddar cheese on whole wheat bread with butter,1
+Grilled cheese sandwich,2866,1005,Grilled cheese sandwich NFS,1
+Grilled cheese sandwich,687,1006,Grilled cheese sandwich American cheese on white bread,1
+Grilled cheese sandwich,1217,1007,Grilled cheese sandwich American cheese on wheat bread,1
+Grilled cheese sandwich,2674,1009,Grilled cheese sandwich American cheese on whole wheat bread,1
+Grilled cheese sandwich,713,1010,Grilled cheese sandwich Cheddar cheese on white bread,1
+Grilled cheese sandwich,1455,1011,Grilled cheese sandwich Cheddar cheese on wheat bread,1
+Grilled cheese sandwich,2253,1013,Grilled cheese sandwich Cheddar cheese on whole wheat bread,1
+Grilled cheese sandwich,1236,1014,Grilled cheese sandwich reduced fat American cheese on white bread,1
+Grilled cheese sandwich,1509,1015,Grilled cheese sandwich reduced fat American cheese on wheat bread,1
+Grilled cheese sandwich,535,1016,Grilled cheese sandwich reduced fat American cheese on whole wheat bread,1
+Grilled cheese sandwich,1038,1018,Grilled cheese sandwich reduced fat Cheddar cheese on white bread,1
+Grilled cheese sandwich,1157,1019,Grilled cheese sandwich reduced fat Cheddar cheese on wheat bread,1
+Grilled cheese sandwich,1567,1020,Grilled cheese sandwich reduced fat Cheddar cheese on whole wheat bread,1
+Cheese sauce,656,1022,Cheese sauce,1
+Alfredo sauce,945,1023,Alfredo sauce,1
+Alfredo sauce with added vegetables,1591,1024,Alfredo sauce with added vegetables,1
+Alfredo sauce with meat,1776,1026,Alfredo sauce with meat,1
+Alfredo sauce with meat and added vegetables,2529,1027,Alfredo sauce with meat and added vegetables,1
+Alfredo sauce with poultry,1465,1028,Alfredo sauce with poultry,1
+Alfredo sauce with poultry and added vegetables,2492,1029,Alfredo sauce with poultry and added vegetables,1
+Alfredo sauce with seafood,2387,1031,Alfredo sauce with seafood,1
+Alfredo sauce with seafood and added vegetables,2714,1032,Alfredo sauce with seafood and added vegetables,1
+Mozzarella sticks,2170,1033,Mozzarella sticks breaded baked or fried,1
+Mozzarella cheese,2641,1035,Mozzarella cheese tomato and basil with oil and vinegar dressing,1
+Cheddar cheese soup,912,1036,Cheddar cheese soup home recipe canned or ready-to-serve,1
+Beer cheese soup,1993,1037,Beer cheese soup made with milk,1
+Meat,1996,1039,Meat NFS,1
+Meat,2988,1040,Meat baby food NS as to type NS as to strained or junior,1
+Meat sticks,832,1041,Meat sticks baby food NS as to type of meat,1
+Ground meat,2495,1042,Ground meat NFS,1
+Beef,2486,1044,Beef NS as to cut cooked NS as to fat eaten,1
+Beef,2849,1045,Beef NS as to cut cooked lean and fat eaten,1
+Beef,919,1046,Beef NS as to cut cooked lean only eaten,1
+Steak,1774,1048,Steak NS as to type of meat cooked NS as to fat eaten,1
+Steak,2645,1049,Steak NS as to type of meat cooked lean and fat eaten,1
+Steak,615,1050,Steak NS as to type of meat cooked lean only eaten,1
+Beef,1631,1052,Beef pickled,1
+Beef,2843,1053,Beef NS as to cut fried NS to fat eaten,1
+Beef steak,1198,1054,Beef steak NS as to cooking method NS as to fat eaten,1
+Beef steak,990,1055,Beef steak NS as to cooking method lean and fat eaten,1
+Beef steak,981,1057,Beef steak NS as to cooking method lean only eaten,1
+Beef steak,1795,1058,Beef steak broiled or baked NS as to fat eaten,1
+Beef steak,1347,1059,Beef steak broiled or baked lean and fat eaten,1
+Beef steak,2747,1061,Beef steak broiled or baked lean only eaten,1
+Beef steak,2295,1062,Beef steak fried NS as to fat eaten,1
+Beef steak,1338,1063,Beef steak fried lean and fat eaten,1
+Beef steak,1076,1065,Beef steak fried lean only eaten,1
+Beef steak,1548,1066,Beef steak breaded or floured baked or fried NS as to fat eaten,1
+Beef steak,1571,1067,Beef steak breaded or floured baked or fried lean and fat eaten,1
+Beef steak,1037,1068,Beef steak breaded or floured baked or fried lean only eaten,1
+Beef steak,557,1070,Beef steak battered fried NS as to fat eaten,1
+Beef steak,1154,1071,Beef steak battered fried lean and fat eaten,1
+Beef steak,818,1072,Beef steak battered fried lean only eaten,1
+Beef steak,2630,1074,Beef steak braised NS as to fat eaten,1
+Beef steak,1031,1075,Beef steak braised lean and fat eaten,1
+Beef steak,742,1076,Beef steak braised lean only eaten,1
+Beef,1697,1078,Beef oxtails cooked,1
+Beef,2774,1079,Beef neck bones cooked,1
+Beef,732,1080,Beef shortribs cooked NS as to fat eaten,1
+Beef,1097,1081,Beef shortribs cooked lean and fat eaten,1
+Beef,1687,1083,Beef shortribs cooked lean only eaten,1
+Beef,2411,1084,Beef shortribs barbecued with sauce NS as to fat eaten,1
+Beef,2027,1085,Beef shortribs barbecued with sauce lean and fat eaten,1
+Beef,2466,1087,Beef shortribs barbecued with sauce lean only eaten,1
+Beef,2081,1088,Beef cow head cooked,1
+Beef,1123,1089,Beef roast roasted NS as to fat eaten,1
+Beef,1346,1091,Beef roast roasted lean and fat eaten,1
+Beef,2839,1092,Beef roast roasted lean only eaten,1
+Beef,2579,1093,Beef roast canned,1
+Beef,2864,1094,Beef pot roast braised or boiled NS as to fat eaten,1
+Beef,1250,1096,Beef pot roast braised or boiled lean and fat eaten,1
+Beef,833,1097,Beef pot roast braised or boiled lean only eaten,1
+Beef,1617,1098,Beef stew meat cooked NS as to fat eaten,1
+Beef,1251,1100,Beef stew meat cooked lean and fat eaten,1
+Beef,1239,1101,Beef stew meat cooked lean only eaten,1
+Corned beef,1188,1102,Corned beef cooked NS as to fat eaten,1
+Corned beef,2418,1104,Corned beef cooked lean and fat eaten,1
+Corned beef,600,1105,Corned beef cooked lean only eaten,1
+Corned beef,821,1106,Corned beef canned ready-to-eat,1
+Beef brisket,1672,1107,Beef brisket cooked NS as to fat eaten,1
+Beef brisket,912,1109,Beef brisket cooked lean and fat eaten,1
+Beef brisket,793,1110,Beef brisket cooked lean only eaten,1
+Beef,1421,1111,Beef sandwich steak flaked formed thinly sliced,1
+Ground beef,1074,1113,Ground beef raw,1
+Ground beef,1061,1114,Ground beef cooked,1
+Ground beef patty,1415,1115,Ground beef patty cooked,1
+Beef,1858,1117,Beef bacon cooked,1
+Beef,2799,1118,Beef bacon reduced sodium cooked,1
+Beef,1283,1119,Beef dried chipped uncooked,1
+Beef,1174,1120,Beef dried chipped cooked in fat,1
+Beef jerky,1923,1122,Beef jerky,1
+Beef,784,1123,Beef baby food NS as to strained or junior,1
+Beef,1221,1124,Beef baby food strained,1
+Beef,2354,1126,Beef baby food junior,1
+Pork,671,1127,Pork NS as to cut cooked NS as to fat eaten,1
+Pork,1351,1128,Pork NS as to cut cooked lean and fat eaten,1
+Pork,1240,1130,Pork NS as to cut cooked lean only eaten,1
+Pork,1567,1131,Pork NS as to cut fried NS as to fat eaten,1
+Pork,1640,1132,Pork NS as to cut fried lean and fat eaten,1
+Pork,1755,1133,Pork NS as to cut fried lean only eaten,1
+Pork,548,1135,Pork NS as to cut breaded or floured fried NS as to fat eaten,1
+Pork,2152,1136,Pork NS as to cut breaded or floured fried lean and fat eaten,1
+Pork,1719,1137,Pork NS as to cut breaded or floured fried lean only eaten,1
+Pork,1886,1139,Pork pickled NS as to cut,1
+Pork,2484,1140,Pork ground or patty cooked,1
+Pork,1419,1141,Pork ground or patty breaded cooked,1
+Pork jerky,1019,1143,Pork jerky,1
+Pork chop,648,1144,Pork chop NS as to cooking method NS as to fat eaten,1
+Pork chop,2200,1145,Pork chop NS as to cooking method lean and fat eaten,1
+Pork chop,1649,1146,Pork chop NS as to cooking method lean only eaten,1
+Pork chop,791,1148,Pork chop broiled or baked NS as to fat eaten,1
+Pork chop,1439,1149,Pork chop broiled or baked lean and fat eaten,1
+Pork chop,993,1150,Pork chop broiled or baked lean only eaten,1
+Pork chop,976,1152,Pork chop breaded or floured broiled or baked NS as to fat eaten,1
+Pork chop,2904,1153,Pork chop breaded or floured broiled or baked lean and fat eaten,1
+Pork chop,2290,1154,Pork chop breaded or floured broiled or baked lean only eaten,1
+Pork chop,1297,1156,Pork chop fried NS as to fat eaten,1
+Pork chop,1755,1157,Pork chop fried lean and fat eaten,1
+Pork chop,526,1158,Pork chop fried lean only eaten,1
+Pork chop,1222,1159,Pork chop breaded or floured fried NS as to fat eaten,1
+Pork chop,2721,1161,Pork chop breaded or floured fried lean and fat eaten,1
+Pork chop,2273,1162,Pork chop breaded or floured fried lean only eaten,1
+Pork chop,1043,1163,Pork chop battered fried NS as to fat eaten,1
+Pork chop,753,1165,Pork chop battered fried lean and fat eaten,1
+Pork chop,1334,1166,Pork chop battered fried lean only eaten,1
+Pork chop,1659,1167,Pork chop stewed NS as to fat eaten,1
+Pork chop,968,1169,Pork chop stewed lean and fat eaten,1
+Pork chop,2065,1170,Pork chop stewed lean only eaten,1
+Pork chop,1211,1171,Pork chop smoked or cured cooked NS as to fat eaten,1
+Pork chop,2011,1172,Pork chop smoked or cured cooked lean and fat eaten,1
+Pork chop,2441,1174,Pork chop smoked or cured cooked lean only eaten,1
+Pork steak or cutlet,1548,1175,Pork steak or cutlet NS as to cooking method NS as to fat eaten,1
+Pork steak or cutlet,2466,1176,Pork steak or cutlet NS as to cooking method lean and fat eaten,1
+Pork steak or cutlet,979,1178,Pork steak or cutlet NS as to cooking method lean only eaten,1
+Pork steak or cutlet,839,1179,Pork steak or cutlet battered fried NS as to fat eaten,1
+Pork steak or cutlet,2932,1180,Pork steak or cutlet battered fried lean and fat eaten,1
+Pork steak or cutlet,2802,1182,Pork steak or cutlet battered fried lean only eaten,1
+Pork steak or cutlet,2141,1183,Pork steak or cutlet broiled or baked NS as to fat eaten,1
+Pork steak or cutlet,1302,1184,Pork steak or cutlet broiled or baked lean and fat eaten,1
+Pork steak or cutlet,1652,1185,Pork steak or cutlet broiled or baked lean only eaten,1
+Pork steak or cutlet,2865,1187,Pork steak or cutlet fried NS as to fat eaten,1
+Pork steak or cutlet,829,1188,Pork steak or cutlet fried lean and fat eaten,1
+Pork steak or cutlet,1624,1189,Pork steak or cutlet fried lean only eaten,1
+Pork steak or cutlet,1539,1191,Pork steak or cutlet breaded or floured broiled or baked NS as to fat eaten,1
+Pork steak or cutlet,1405,1192,Pork steak or cutlet breaded or floured broiled or baked lean and fat eaten,1
+Pork steak or cutlet,2954,1193,Pork steak or cutlet breaded or floured broiled or baked lean only eaten,1
+Pork steak or cutlet,1573,1195,Pork steak or cutlet breaded or floured fried NS as to fat eaten,1
+Pork steak or cutlet,2718,1196,Pork steak or cutlet breaded or floured fried lean and fat eaten,1
+Pork steak or cutlet,2651,1197,Pork steak or cutlet breaded or floured fried lean only eaten,1
+Pork,1749,1198,Pork tenderloin cooked NS as to cooking method,1
+Pork,2842,1200,Pork tenderloin breaded fried,1
+Pork,2417,1201,Pork tenderloin braised,1
+Pork,896,1202,Pork tenderloin baked,1
+Pork,2858,1204,Pork tenderloin battered fried,1
+Ham,1216,1205,Ham fried NS as to fat eaten,1
+Ham,759,1206,Ham fried lean and fat eaten,1
+Ham,756,1208,Ham fried lean only eaten,1
+Ham,1168,1209,Ham breaded or floured fried NS as to fat eaten,1
+Ham,1186,1210,Ham breaded or floured fried lean and fat eaten,1
+Ham,1109,1211,Ham breaded or floured fried lean only eaten,1
+Ham,2919,1213,Ham fresh cooked NS as to fat eaten,1
+Ham,1201,1214,Ham fresh cooked lean and fat eaten,1
+Ham,2770,1215,Ham fresh cooked lean only eaten,1
+Ham,512,1217,Ham smoked or cured cooked NS as to fat eaten,1
+Ham,1568,1218,Ham smoked or cured cooked lean and fat eaten,1
+Ham,2032,1219,Ham smoked or cured cooked lean only eaten,1
+Ham,2569,1221,Ham prosciutto,1
+Ham,1733,1222,Ham smoked or cured canned NS as to fat eaten,1
+Ham,2262,1223,Ham smoked or cured canned lean and fat eaten,1
+Ham,970,1224,Ham smoked or cured canned lean only eaten,1
+Ham,1315,1226,Ham smoked or cured ground patty,1
+Pork roast,2614,1227,Pork roast NS as to cut cooked NS as to fat eaten,1
+Pork roast,2094,1228,Pork roast NS as to cut cooked lean and fat eaten,1
+Pork roast,1449,1230,Pork roast NS as to cut cooked lean only eaten,1
+Pork roast,2268,1231,Pork roast loin cooked NS as to fat eaten,1
+Pork roast,2876,1232,Pork roast loin cooked lean and fat eaten,1
+Pork roast,839,1234,Pork roast loin cooked lean only eaten,1
+Fried pork chunks,2694,1235,Fried pork chunks Puerto Rican style,1
+Pork roast,1028,1236,Pork roast shoulder cooked NS as to fat eaten,1
+Pork roast,1498,1237,Pork roast shoulder cooked lean and fat eaten,1
+Pork roast,1378,1239,Pork roast shoulder cooked lean only eaten,1
+Pork roast,2332,1240,Pork roast smoked or cured cooked NS as to fat eaten,1
+Pork roast,2289,1241,Pork roast smoked or cured cooked lean and fat eaten,1
+Pork roast,867,1243,Pork roast smoked or cured cooked lean only eaten,1
+Pork roll,2388,1244,Pork roll cured fried,1
+Canadian bacon,1140,1245,Canadian bacon cooked,1
+Bacon,1850,1247,Bacon NS as to type of meat cooked,1
+Bacon,2378,1248,Bacon NS as to type of meat reduced sodium cooked,1
+Pork bacon,2542,1249,Pork bacon NS as to fresh smoked or cured cooked,1
+Pork bacon,2862,1250,Pork bacon NS as to fresh smoked or cured reduced sodium cooked,1
+Pork bacon,1026,1252,Pork bacon smoked or cured cooked,1
+Bacon or side pork,1280,1253,Bacon or side pork fresh cooked,1
+Pork bacon,1395,1254,Pork bacon smoked or cured reduced sodium cooked,1
+Salt pork,711,1256,Salt pork cooked,1
+Fat back,700,1257,Fat back cooked,1
+Pork,2660,1258,Pork spareribs cooked NS as to fat eaten,1
+Pork,1599,1260,Pork spareribs cooked lean and fat eaten,1
+Pork,1116,1261,Pork spareribs cooked lean only eaten,1
+Pork,2135,1262,Pork spareribs barbecued with sauce NS as to fat eaten,1
+Pork,2152,1263,Pork spareribs barbecued with sauce lean and fat eaten,1
+Pork,1100,1265,Pork spareribs barbecued with sauce lean only eaten,1
+Pork,698,1266,Pork cracklings cooked,1
+Pork ears,1545,1267,Pork ears tail head snout miscellaneous parts cooked,1
+Pork,951,1269,Pork neck bones cooked,1
+Pork,887,1270,Pork pig's feet cooked,1
+Pork,2277,1271,Pork pig's feet pickled,1
+Pork,1363,1273,Pork pig's hocks cooked,1
+Pork skin rinds,1365,1274,Pork skin rinds,1
+Pork skin,2681,1275,Pork skin boiled,1
+Ham,1987,1276,Ham baby food strained,1
+Meat stick,2278,1278,Meat stick baby food,1
+Lamb,712,1279,Lamb NS as to cut cooked,1
+Lamb chop,1764,1280,Lamb chop NS as to cut cooked NS as to fat eaten,1
+Lamb chop,759,1282,Lamb chop NS as to cut cooked lean and fat eaten,1
+Lamb chop,1840,1283,Lamb chop NS as to cut cooked lean only eaten,1
+Lamb,1366,1284,Lamb loin chop cooked NS as to fat eaten,1
+Lamb,805,1286,Lamb loin chop cooked lean and fat eaten,1
+Lamb,1354,1287,Lamb loin chop cooked lean only eaten,1
+Lamb,866,1288,Lamb shoulder chop cooked NS as to fat eaten,1
+Lamb,2339,1289,Lamb shoulder chop cooked lean and fat eaten,1
+Lamb,2909,1291,Lamb shoulder chop cooked lean only eaten,1
+Lamb,2875,1292,Lamb ribs cooked lean only eaten,1
+Lamb,590,1293,Lamb ribs cooked NS as to fat eaten,1
+Lamb,1147,1295,Lamb ribs cooked lean and fat eaten,1
+Lamb hocks,1023,1296,Lamb hocks cooked,1
+Lamb,593,1297,Lamb roast cooked NS as to fat eaten,1
+Lamb,1282,1299,Lamb roast cooked lean and fat eaten,1
+Lamb,2387,1300,Lamb roast cooked lean only eaten,1
+Lamb,2629,1301,Lamb ground or patty cooked,1
+Goat,1614,1302,Goat boiled,1
+Goat,1534,1304,Goat fried,1
+Goat,2027,1305,Goat baked,1
+Goat head,824,1306,Goat head cooked,1
+Goat ribs,2459,1308,Goat ribs cooked,1
+Veal,2172,1309,Veal NS as to cut cooked NS as to fat eaten,1
+Veal,593,1310,Veal NS as to cut cooked lean and fat eaten,1
+Veal,2410,1312,Veal NS as to cut cooked lean only eaten,1
+Veal chop,2210,1313,Veal chop NS as to cooking method NS as to fat eaten,1
+Veal chop,2277,1314,Veal chop NS as to cooking method lean and fat eaten,1
+Veal chop,2920,1315,Veal chop NS as to cooking method lean only eaten,1
+Veal chop,2595,1317,Veal chop fried NS as to fat eaten,1
+Veal chop,1166,1318,Veal chop fried lean and fat eaten,1
+Veal chop,1742,1319,Veal chop fried lean only eaten,1
+Veal chop,1898,1321,Veal chop broiled NS as to fat eaten,1
+Veal chop,1849,1322,Veal chop broiled lean and fat eaten,1
+Veal chop,2539,1323,Veal chop broiled lean only eaten,1
+Veal cutlet or steak,2250,1325,Veal cutlet or steak NS as to cooking method NS as to fat eaten,1
+Veal cutlet or steak,2957,1326,Veal cutlet or steak NS as to cooking method lean and fat eaten,1
+Veal cutlet or steak,2285,1327,Veal cutlet or steak NS as to cooking method lean only eaten,1
+Veal cutlet or steak,1721,1328,Veal cutlet or steak broiled NS as to fat eaten,1
+Veal cutlet or steak,667,1330,Veal cutlet or steak broiled lean and fat eaten,1
+Veal cutlet or steak,1282,1331,Veal cutlet or steak broiled lean only eaten,1
+Veal cutlet or steak,1303,1332,Veal cutlet or steak fried NS as to fat eaten,1
+Veal cutlet or steak,2904,1334,Veal cutlet or steak fried lean and fat eaten,1
+Veal cutlet or steak,1802,1335,Veal cutlet or steak fried lean only eaten,1
+Veal,1486,1336,Veal roasted NS as to fat eaten,1
+Veal,1411,1338,Veal roasted lean and fat eaten,1
+Veal,1803,1339,Veal roasted lean only eaten,1
+Veal,1902,1340,Veal ground or patty cooked,1
+Mock chicken legs,2116,1341,Mock chicken legs cooked,1
+Veal patty,1639,1343,Veal patty breaded cooked,1
+Rabbit,736,1344,Rabbit NS as to domestic or wild cooked,1
+Rabbit,1212,1345,Rabbit domestic NS as to cooking method,1
+Rabbit,2653,1347,Rabbit NS as to domestic or wild breaded fried,1
+Rabbit,739,1348,Rabbit wild cooked,1
+Venison/deer,2429,1349,Venison/deer NFS,1
+Venison/deer,1290,1351,Venison/deer cured,1
+Venison/deer,2149,1352,Venison/deer roasted,1
+Venison/deer steak,1737,1353,Venison/deer steak cooked NS as to cooking method,1
+Venison/deer steak,2212,1354,Venison/deer steak breaded or floured cooked NS as to cooking method,1
+Venison/deer jerky,1706,1356,Venison/deer jerky,1
+Deer sausage,1815,1357,Deer sausage,1
+Deer chop,2343,1358,Deer chop cooked,1
+Venison/deer ribs,2772,1360,Venison/deer ribs cooked,1
+Venison/deer,2480,1361,Venison/deer stewed,1
+Moose,1553,1362,Moose cooked,1
+Bear,2865,1364,Bear cooked,1
+Caribou,1565,1365,Caribou cooked,1
+Bison,2734,1366,Bison cooked,1
+Ground hog,1044,1367,Ground hog cooked,1
+Opossum,645,1369,Opossum cooked,1
+Squirrel,2584,1370,Squirrel cooked,1
+Beaver,1692,1371,Beaver cooked,1
+Raccoon,1647,1373,Raccoon cooked,1
+Armadillo,1583,1374,Armadillo cooked,1
+Wild pig,1700,1375,Wild pig smoked,1
+Ostrich,782,1377,Ostrich cooked,1
+Lamb,1935,1378,Lamb baby food strained,1
+Veal,1690,1379,Veal baby food strained,1
+Chicken,1880,1380,Chicken NS as to part and cooking method NS as to skin eaten,1
+Chicken,2104,1382,Chicken NS as to part and cooking method skin eaten,1
+Chicken,1916,1383,Chicken NS as to part and cooking method skin not eaten,1
+Chicken,1844,1384,Chicken NS as to part baked broiled or roasted NS as to skin eaten,1
+Chicken,1265,1386,Chicken NS as to part baked broiled or roasted skin eaten,1
+Chicken,693,1387,Chicken NS as to part baked broiled or roasted skin not eaten,1
+Chicken,1717,1388,Chicken NS as to part rotisserie NS as to skin eaten,1
+Chicken,1952,1390,Chicken NS as to part rotisserie skin eaten,1
+Chicken,2631,1391,Chicken NS as to part rotisserie skin not eaten,1
+Chicken,2472,1392,Chicken NS as to part stewed NS as to skin eaten,1
+Chicken,1659,1393,Chicken NS as to part stewed skin eaten,1
+Chicken,2431,1395,Chicken NS as to part stewed skin not eaten,1
+Chicken,1831,1396,Chicken NS as to part grilled without sauce NS as to skin eaten,1
+Chicken,520,1397,Chicken NS as to part grilled without sauce skin eaten,1
+Chicken,974,1399,Chicken NS as to part grilled without sauce skin not eaten,1
+Chicken,1140,1400,Chicken NS as to part grilled with sauce NS as to skin eaten,1
+Chicken,1668,1401,Chicken NS as to part grilled with sauce skin eaten,1
+Chicken,1929,1403,Chicken NS as to part grilled with sauce skin not eaten,1
+Chicken,2878,1404,Chicken NS as to part sauteed skin eaten,1
+Chicken,1656,1405,Chicken NS as to part sauteed skin not eaten,1
+Chicken,2561,1406,Chicken NS as to part fried coated skin / coating eaten,1
+Chicken,2543,1408,Chicken NS as to part fried coated skin / coating not eaten,1
+Chicken,939,1409,Chicken NS as to part baked coated skin / coating eaten,1
+Chicken,959,1410,Chicken NS as to part baked coated skin / coating not eaten,1
+Chicken breast,2214,1412,Chicken breast NS as to cooking method skin eaten,1
+Chicken breast,2769,1413,Chicken breast NS as to cooking method skin not eaten,1
+Chicken breast,2365,1414,Chicken breast baked broiled or roasted skin eaten from raw,1
+Chicken breast,1279,1416,Chicken breast baked broiled or roasted skin not eaten from raw,1
+Chicken breast,1922,1417,Chicken breast baked or broiled skin eaten from pre-cooked,1
+Chicken breast,2421,1418,Chicken breast baked or broiled skin not eaten from pre-cooked,1
+Chicken breast,1837,1419,Chicken breast baked or broiled skin eaten from fast food / restaurant,1
+Chicken breast,2992,1421,Chicken breast baked or broiled skin not eaten from fast food / restaurant,1
+Chicken breast,890,1422,Chicken breast baked broiled or roasted with marinade skin eaten from raw,1
+Chicken breast,1523,1423,Chicken breast baked broiled or roasted with marinade skin not eaten from raw,1
+Chicken breast,651,1425,Chicken breast rotisserie skin eaten,1
+Chicken breast,552,1426,Chicken breast rotisserie skin not eaten,1
+Chicken breast,2579,1427,Chicken breast stewed skin eaten,1
+Chicken breast,2106,1429,Chicken breast stewed skin not eaten,1
+Chicken breast,1237,1430,Chicken breast grilled without sauce skin eaten,1
+Chicken breast,1486,1431,Chicken breast grilled without sauce skin not eaten,1
+Chicken breast,2655,1432,Chicken breast grilled with sauce skin eaten,1
+Chicken breast,1441,1434,Chicken breast grilled with sauce skin not eaten,1
+Chicken breast,693,1435,Chicken breast sauteed skin eaten,1
+Chicken breast,1791,1436,Chicken breast sauteed skin not eaten,1
+Chicken breast,877,1438,Chicken breast fried coated skin / coating eaten from raw,1
+Chicken breast,1015,1439,Chicken breast fried coated skin / coating not eaten from raw,1
+Chicken breast,1797,1440,Chicken breast fried coated prepared skinless coating eaten from raw,1
+Chicken breast,1930,1442,Chicken breast fried coated skin / coating eaten from pre-cooked,1
+Chicken breast,687,1443,Chicken breast fried coated skin / coating not eaten from pre-cooked,1
+Chicken breast,1030,1444,Chicken breast fried coated skin / coating eaten from fast food / restaurant,1
+Chicken breast,2722,1445,Chicken breast fried coated skin / coating not eaten from fast food / restaurant,1
+Chicken breast,1134,1447,Chicken breast baked coated skin / coating eaten,1
+Chicken breast,2220,1448,Chicken breast baked coated skin / coating not eaten,1
+Chicken leg,2788,1449,Chicken leg drumstick and thigh NS as to cooking method skin eaten,1
+Chicken leg,1428,1451,Chicken leg drumstick and thigh NS as to cooking method skin not eaten,1
+Chicken leg,1569,1452,Chicken leg drumstick and thigh baked or broiled skin eaten,1
+Chicken leg,944,1453,Chicken leg drumstick and thigh baked or broiled skin not eaten,1
+Chicken leg,1243,1455,Chicken leg drumstick and thigh rotisserie skin eaten,1
+Chicken leg,987,1456,Chicken leg drumstick and thigh rotisserie skin not eaten,1
+Chicken leg,2888,1457,Chicken leg drumstick and thigh stewed skin eaten,1
+Chicken leg,2116,1458,Chicken leg drumstick and thigh stewed skin not eaten,1
+Chicken leg,2174,1460,Chicken leg drumstick and thigh grilled without sauce skin eaten,1
+Chicken leg,2346,1461,Chicken leg drumstick and thigh grilled without sauce skin not eaten,1
+Chicken leg,1781,1462,Chicken leg drumstick and thigh grilled with sauce skin eaten,1
+Chicken leg,1485,1464,Chicken leg drumstick and thigh grilled with sauce skin not eaten,1
+Chicken leg,838,1465,Chicken leg drumstick and thigh sauteed skin eaten,1
+Chicken leg,2143,1466,Chicken leg drumstick and thigh sauteed skin not eaten,1
+Chicken leg,1526,1468,Chicken leg drumstick and thigh fried coated skin / coating eaten,1
+Chicken leg,1861,1469,Chicken leg drumstick and thigh fried coated skin / coating not eaten,1
+Chicken leg,626,1470,Chicken leg drumstick and thigh baked coated skin / coating eaten,1
+Chicken leg,1008,1471,Chicken leg drumstick and thigh baked coated skin / coating not eaten,1
+Chicken drumstick,600,1473,Chicken drumstick NS as to cooking method skin eaten,1
+Chicken drumstick,2439,1474,Chicken drumstick NS as to cooking method skin not eaten,1
+Chicken drumstick,1229,1475,Chicken drumstick baked broiled or roasted skin eaten from raw,1
+Chicken drumstick,2869,1477,Chicken drumstick baked broiled or roasted skin not eaten from raw,1
+Chicken drumstick,926,1478,Chicken drumstick baked or broiled skin eaten from pre-cooked,1
+Chicken drumstick,610,1479,Chicken drumstick baked or broiled skin not eaten from pre-cooked,1
+Chicken drumstick,1854,1481,Chicken drumstick baked or broiled skin eaten from fast food / restaurant,1
+Chicken drumstick,1177,1482,Chicken drumstick baked or broiled skin not eaten from fast food / restaurant,1
+Chicken drumstick,2770,1483,Chicken drumstick rotisserie skin eaten,1
+Chicken drumstick,2979,1484,Chicken drumstick rotisserie skin not eaten,1
+Chicken drumstick,2029,1486,Chicken drumstick grilled without sauce skin eaten,1
+Chicken drumstick,1600,1487,Chicken drumstick grilled without sauce skin not eaten,1
+Chicken drumstick,1444,1488,Chicken drumstick grilled with sauce skin eaten,1
+Chicken drumstick,1736,1490,Chicken drumstick grilled with sauce skin not eaten,1
+Chicken drumstick,2347,1491,Chicken drumstick stewed skin eaten,1
+Chicken drumstick,1330,1492,Chicken drumstick stewed skin not eaten,1
+Chicken drumstick,2847,1494,Chicken drumstick sauteed skin eaten,1
+Chicken drumstick,750,1495,Chicken drumstick sauteed skin not eaten,1
+Chicken drumstick,1382,1496,Chicken drumstick fried coated skin / coating eaten from raw,1
+Chicken drumstick,780,1497,Chicken drumstick fried coated skin / coating not eaten from raw,1
+Chicken drumstick,1830,1499,Chicken drumstick fried coated prepared skinless coating eaten from raw,1
+Chicken drumstick,1948,1500,Chicken drumstick fried coated skin / coating eaten from pre-cooked,1
+Chicken drumstick,2544,1501,Chicken drumstick fried coated skin / coating not eaten from pre-cooked,1
+Chicken drumstick,2458,1503,Chicken drumstick fried coated skin / coating eaten from fast food / restaurant,1
+Chicken drumstick,2205,1504,Chicken drumstick fried coated skin / coating not eaten from fast food / restaurant,1
+Chicken drumstick,2665,1505,Chicken drumstick baked coated skin / coating eaten,1
+Chicken drumstick,2520,1507,Chicken drumstick baked coated skin / coating not eaten,1
+Chicken thigh,602,1508,Chicken thigh NS as to cooking method skin eaten,1
+Chicken thigh,2797,1509,Chicken thigh NS as to cooking method skin not eaten,1
+Chicken thigh,1385,1510,Chicken thigh baked broiled or roasted skin eaten from raw,1
+Chicken thigh,1333,1512,Chicken thigh baked broiled or roasted skin not eaten from raw,1
+Chicken thigh,1560,1513,Chicken thigh baked or broiled skin eaten from pre-cooked,1
+Chicken thigh,2906,1514,Chicken thigh baked or broiled skin not eaten from pre-cooked,1
+Chicken thigh,682,1516,Chicken thigh baked or broiled skin eaten from fast food / restaurant,1
+Chicken thigh,1390,1517,Chicken thigh baked or broiled skin not eaten from fast food / restaurant,1
+Chicken thigh,2220,1518,Chicken thigh rotisserie skin eaten,1
+Chicken thigh,1845,1520,Chicken thigh rotisserie skin not eaten,1
+Chicken thigh,2309,1521,Chicken thigh stewed skin eaten,1
+Chicken thigh,2945,1522,Chicken thigh stewed skin not eaten,1
+Chicken thigh,847,1523,Chicken thigh grilled without sauce skin eaten,1
+Chicken thigh,2903,1525,Chicken thigh grilled without sauce skin not eaten,1
+Chicken thigh,1782,1526,Chicken thigh grilled with sauce skin eaten,1
+Chicken thigh,1684,1527,Chicken thigh grilled with sauce skin not eaten,1
+Chicken thigh,653,1529,Chicken thigh sauteed skin eaten,1
+Chicken thigh,1191,1530,Chicken thigh sauteed skin not eaten,1
+Chicken thigh,603,1531,Chicken thigh fried coated skin / coating eaten from raw,1
+Chicken thigh,1527,1533,Chicken thigh fried coated skin / coating not eaten from raw,1
+Chicken thigh,667,1534,Chicken thigh fried coated prepared skinless coating eaten from raw,1
+Chicken thigh,1822,1535,Chicken thigh fried coated skin / coating eaten from pre-cooked,1
+Chicken thigh,1943,1536,Chicken thigh fried coated skin / coating not eaten from pre-cooked,1
+Chicken thigh,1264,1538,Chicken thigh fried coated skin / coating eaten from fast food,1
+Chicken thigh,1461,1539,Chicken thigh fried coated skin / coating not eaten from fast food,1
+Chicken thigh,2556,1540,Chicken thigh fried coated skin / coating eaten from restaurant,1
+Chicken thigh,2094,1542,Chicken thigh fried coated skin / coating not eaten from restaurant,1
+Chicken thigh,2272,1543,Chicken thigh baked coated skin / coating eaten,1
+Chicken thigh,704,1544,Chicken thigh baked coated skin / coating not eaten,1
+Chicken wing,1019,1546,Chicken wing NS as to cooking method,1
+Chicken wing,2981,1547,Chicken wing baked broiled or roasted from raw,1
+Chicken wing,1890,1548,Chicken wing baked or broiled from pre-cooked,1
+Chicken wing,1306,1549,Chicken wing baked or broiled from fast food / restaurant,1
+Chicken wing,2213,1551,Chicken wing rotisserie,1
+Chicken wing,556,1552,Chicken wing stewed,1
+Chicken wing,592,1553,Chicken wing grilled without sauce,1
+Chicken wing,2378,1555,Chicken wing grilled with sauce,1
+Chicken wing,2885,1556,Chicken wing sauteed,1
+Chicken wing,1886,1557,Chicken wing fried coated from raw,1
+Chicken wing,586,1559,Chicken wing fried coated from pre-cooked,1
+Chicken wing,632,1560,Chicken wing fried coated from fast food,1
+Chicken wing,1260,1561,Chicken wing fried coated from restaurant,1
+Chicken wing,2344,1562,Chicken wing baked coated,1
+"Chicken ""wings"" with hot sauce",799,1564,"Chicken ""wings"" with hot sauce from fast food / restaurant",1
+"Chicken ""wings"" with other sauces or seasoning",2916,1565,"Chicken ""wings"" with other sauces or seasoning from fast food / restaurant",1
+"Chicken ""wings""",2156,1566,"Chicken ""wings"" plain from fast food / restaurant",1
+"Chicken ""wings"" with hot sauce",1376,1568,"Chicken ""wings"" with hot sauce from precooked",1
+"Chicken ""wings"" with other sauces or seasoning",2908,1569,"Chicken ""wings"" with other sauces or seasoning from precooked",1
+"Chicken ""wings""",752,1570,"Chicken ""wings"" plain from precooked",1
+"Chicken ""wings"" with hot sauce",1130,1572,"Chicken ""wings"" with hot sauce from other sources",1
+"Chicken ""wings"" with other sauces or seasoning",2616,1573,"Chicken ""wings"" with other sauces or seasoning from other sources",1
+"Chicken ""wings""",1870,1574,"Chicken ""wings"" plain from other sources",1
+"Chicken ""wings""",1137,1575,"Chicken ""wings"" boneless with hot sauce from fast food / restaurant",1
+"Chicken ""wings""",2615,1577,"Chicken ""wings"" boneless with hot sauce from other sources",1
+Chicken,2057,1578,Chicken back,1
+Chicken,587,1579,Chicken neck or ribs,1
+Chicken,1056,1581,Chicken tail,1
+Chicken skin,1371,1582,Chicken skin,1
+Chicken feet,963,1583,Chicken feet,1
+Chicken,2631,1585,Chicken canned meat only,1
+Chicken,1612,1586,Chicken chicken roll roasted,1
+Chicken patty,2376,1587,Chicken patty breaded,1
+Chicken fillet,2915,1588,Chicken fillet breaded,1
+Chicken fillet,1256,1590,Chicken fillet grilled,1
+Chicken,616,1591,Chicken ground,1
+Chicken nuggets,2777,1592,Chicken nuggets NFS,1
+Chicken nuggets,966,1594,Chicken nuggets from fast food,1
+Chicken nuggets,2076,1595,Chicken nuggets from restaurant,1
+Chicken nuggets,2525,1596,Chicken nuggets from school lunch,1
+Chicken nuggets,698,1598,Chicken nuggets from frozen,1
+Chicken nuggets,621,1599,Chicken nuggets from other sources,1
+Chicken tenders or strips,2901,1600,Chicken tenders or strips NFS,1
+Chicken tenders or strips,1030,1601,Chicken tenders or strips breaded from fast food,1
+Chicken tenders or strips,2608,1603,Chicken tenders or strips breaded from restaurant,1
+Chicken tenders or strips,2993,1604,Chicken tenders or strips breaded from school lunch,1
+Chicken tenders or strips,1571,1605,Chicken tenders or strips breaded from frozen,1
+Chicken tenders or strips,1082,1607,Chicken tenders or strips breaded from other sources,1
+Fried chicken chunks,1329,1608,Fried chicken chunks Puerto Rican style,1
+Turkey,2619,1609,Turkey NFS,1
+Turkey,1122,1611,Turkey light meat skin not eaten,1
+Turkey,1180,1612,Turkey light meat skin eaten,1
+Turkey,2264,1613,Turkey light meat breaded baked or fried skin not eaten,1
+Turkey,2504,1614,Turkey light meat breaded baked or fried skin eaten,1
+Turkey,2967,1616,Turkey light meat roasted skin not eaten,1
+Turkey,1535,1617,Turkey light meat roasted skin eaten,1
+Turkey,2151,1618,Turkey dark meat roasted skin not eaten,1
+Turkey,1589,1620,Turkey dark meat roasted skin eaten,1
+Turkey,1776,1621,Turkey light and dark meat roasted skin not eaten,1
+Turkey,2846,1622,Turkey light and dark meat roasted skin eaten,1
+Turkey,1106,1624,Turkey light or dark meat fried coated skin not eaten,1
+Turkey,2882,1625,Turkey light or dark meat fried coated skin eaten,1
+Turkey,574,1626,Turkey light or dark meat stewed skin not eaten,1
+Turkey light or dark meat,2253,1627,Turkey light or dark meat stewed skin eaten,1
+Turkey,701,1629,Turkey light or dark meat smoked skin eaten,1
+Turkey,1642,1630,Turkey light or dark meat smoked skin not eaten,1
+Turkey,1368,1631,Turkey drumstick cooked skin not eaten,1
+Turkey,1689,1633,Turkey drumstick cooked skin eaten,1
+Turkey,2059,1634,Turkey drumstick roasted skin not eaten,1
+Turkey,1802,1635,Turkey drumstick roasted skin eaten,1
+Turkey,642,1637,Turkey drumstick smoked skin eaten,1
+Turkey,2136,1638,Turkey thigh cooked skin eaten,1
+Turkey,1681,1639,Turkey thigh cooked skin not eaten,1
+Turkey,1693,1640,Turkey neck,1
+Turkey,507,1642,Turkey wing cooked skin not eaten,1
+Turkey,1181,1643,Turkey wing cooked skin eaten,1
+Turkey,2012,1644,Turkey wing smoked skin eaten,1
+Turkey,533,1646,Turkey tail,1
+Turkey,2963,1647,Turkey back,1
+Turkey,2248,1648,Turkey canned,1
+Turkey,1816,1650,Turkey ground,1
+Turkey,2129,1651,Turkey nuggets,1
+Turkey bacon,2596,1652,Turkey bacon cooked,1
+Turkey bacon,1657,1653,Turkey bacon reduced sodium cooked,1
+Turkey with barbecue sauce,2782,1655,Turkey with barbecue sauce skin eaten,1
+Turkey with barbecue sauce,2356,1656,Turkey with barbecue sauce skin not eaten,1
+Duck,1933,1657,Duck cooked skin eaten,1
+Duck,2806,1659,Duck cooked skin not eaten,1
+Duck,2829,1660,Duck roasted skin eaten,1
+Duck,547,1661,Duck roasted skin not eaten,1
+Duck,2685,1663,Duck pressed Chinese,1
+Goose,807,1664,Goose wild roasted,1
+Cornish game hen,530,1665,Cornish game hen cooked skin eaten,1
+Cornish game hen,1942,1666,Cornish game hen cooked skin not eaten,1
+Cornish game hen,983,1668,Cornish game hen roasted skin eaten,1
+Cornish game hen,976,1669,Cornish game hen roasted skin not eaten,1
+Dove,2378,1670,Dove cooked NS as to cooking method,1
+Dove,2657,1672,Dove fried,1
+Quail,2409,1673,Quail cooked,1
+Pheasant,2249,1674,Pheasant cooked,1
+Chicken,2291,1676,Chicken baby food NS as to strained or junior,1
+Chicken,2382,1677,Chicken baby food strained,1
+Chicken,994,1678,Chicken baby food junior,1
+Turkey,1407,1679,Turkey baby food NS as to strained or junior,1
+Turkey,582,1681,Turkey baby food strained,1
+Turkey,790,1682,Turkey baby food junior,1
+Chicken stick,1808,1683,Chicken stick baby food,1
+Turkey stick,1208,1685,Turkey stick baby food,1
+Beef liver,1996,1686,Beef liver braised,1
+Beef liver,1458,1687,Beef liver fried,1
+Chicken liver,535,1689,Chicken liver braised,1
+Chicken liver,1684,1690,Chicken liver fried,1
+Liver paste or pate,2625,1691,Liver paste or pate chicken,1
+Heart,2865,1692,Heart cooked,1
+Kidney,2642,1694,Kidney cooked,1
+Sweetbreads,2255,1695,Sweetbreads cooked,1
+Brains,2423,1696,Brains cooked,1
+Tongue,1090,1698,Tongue cooked,1
+Tongue,2667,1699,Tongue smoked cured or pickled cooked,1
+Tongue pot roast,2900,1700,Tongue pot roast Puerto Rican style,1
+Tripe,1088,1702,Tripe cooked,1
+Chitterlings,2279,1703,Chitterlings cooked,1
+Hog maws,2120,1704,Hog maws cooked,1
+Gizzard,2365,1705,Gizzard cooked,1
+Frankfurter or hot dog,2320,1707,Frankfurter or hot dog NFS,1
+Frankfurter or hot dog,2081,1708,Frankfurter or hot dog cheese-filled,1
+Frankfurter or hot dog,1627,1709,Frankfurter or hot dog beef,1
+Frankfurter or hot dog,2704,1711,Frankfurter or hot dog beef and pork,1
+Frankfurter or hot dog,2586,1712,Frankfurter or hot dog beef and pork reduced fat or light,1
+Frankfurter or hot dog,2726,1713,Frankfurter or hot dog meat and poultry fat free,1
+Frankfurter or hot dog,1241,1715,Frankfurter or hot dog meat and poultry,1
+Frankfurter or hot dog,549,1716,Frankfurter or hot dog meat and poultry reduced fat or light,1
+Frankfurter or hot dog,1536,1717,Frankfurter or hot dog chicken,1
+Frankfurter or hot dog,732,1718,Frankfurter or hot dog turkey,1
+Frankfurter or hot dog,1517,1720,Frankfurter or hot dog beef reduced fat or light,1
+Frankfurter or hot dog,1276,1721,Frankfurter or hot dog reduced fat or light NFS,1
+Beef sausage,2016,1722,Beef sausage,1
+Beef sausage,2406,1724,Beef sausage reduced fat,1
+Beef sausage,630,1725,Beef sausage reduced sodium,1
+Beef sausage with cheese,1515,1726,Beef sausage with cheese,1
+Blood sausage,2571,1728,Blood sausage,1
+Bratwurst,1689,1729,Bratwurst,1
+Bratwurst,2136,1730,Bratwurst with cheese,1
+Bologna,935,1731,Bologna NFS,1
+Bologna,791,1733,Bologna made from any kind of meat reduced fat,1
+Bologna,1822,1734,Bologna made from any kind of meat reduced sodium,1
+Bologna,1319,1735,Bologna made from any kind of meat reduced fat and reduced sodium,1
+Turkey or chicken and beef sausage,1086,1737,Turkey or chicken and beef sausage,1
+Chorizo,1386,1738,Chorizo,1
+Head cheese,1235,1739,Head cheese,1
+Knockwurst,1080,1741,Knockwurst,1
+Mortadella,952,1742,Mortadella,1
+Pastrami,934,1743,Pastrami NFS,1
+Pastrami,2230,1744,Pastrami made from any kind of meat reduced fat,1
+Pepperoni,1112,1746,Pepperoni NFS,1
+Pepperoni,1253,1747,Pepperoni reduced fat,1
+Pepperoni,2669,1748,Pepperoni reduced sodium,1
+Polish sausage,2705,1750,Polish sausage,1
+Italian sausage,2040,1751,Italian sausage,1
+Sausage,2289,1752,Sausage NFS,1
+Pork sausage,2249,1754,Pork sausage,1
+Pork sausage,2214,1755,Pork sausage reduced fat,1
+Pork sausage,848,1756,Pork sausage reduced sodium,1
+Pork sausage rice links,2019,1757,Pork sausage rice links,1
+Pork and beef sausage,2576,1759,Pork and beef sausage,1
+Salami,1052,1760,Salami NFS,1
+Salami,2730,1761,Salami made from any type of meat reduced fat,1
+Salami,2001,1763,Salami made from any type of meat reduced sodium,1
+Scrapple,2703,1764,Scrapple cooked,1
+Thuringer,1618,1765,Thuringer,1
+Turkey or chicken sausage,2451,1767,Turkey or chicken sausage,1
+Turkey or chicken sausage,1786,1768,Turkey or chicken sausage reduced sodium,1
+Turkey or chicken sausage,2015,1769,Turkey or chicken sausage reduced fat,1
+Turkey or chicken and pork sausage,555,1770,Turkey or chicken and pork sausage,1
+Turkey or chicken,1260,1772,Turkey or chicken pork and beef sausage reduced sodium,1
+Vienna sausage,2307,1773,Vienna sausage canned,1
+Pickled sausage,614,1774,Pickled sausage,1
+Luncheon meat,1367,1776,Luncheon meat NFS,1
+Ham,2365,1777,Ham prepackaged or deli luncheon meat,1
+Ham,2474,1778,Ham prepackaged or deli luncheon meat reduced sodium,1
+Chicken,1622,1780,Chicken prepackaged or deli luncheon meat,1
+Chicken,693,1781,Chicken prepackaged or deli luncheon meat reduced sodium,1
+Ham luncheon meat,1583,1782,Ham luncheon meat loaf type,1
+Ham and pork,1074,1783,Ham and pork canned luncheon meat chopped minced pressed spiced,1
+Ham,2662,1785,Ham pork and chicken canned luncheon meat chopped minced pressed spiced reduced fat and reduced sodium,1
+Ham,1680,1786,Ham pork and chicken canned luncheon meat chopped minced pressed spiced reduced sodium,1
+Liverwurst,2972,1787,Liverwurst,1
+Luncheon meat,884,1789,Luncheon meat loaf type,1
+Turkey,2613,1790,Turkey prepackaged or deli luncheon meat,1
+Turkey,760,1791,Turkey prepackaged or deli luncheon meat reduced sodium,1
+Turkey ham,1292,1793,Turkey ham prepackaged or deli luncheon meat,1
+Beef,1841,1794,Beef prepackaged or deli luncheon meat,1
+Beef,2380,1795,Beef prepackaged or deli luncheon meat reduced sodium,1
+Meat spread or potted meat,2231,1796,Meat spread or potted meat NFS,1
+Chicken salad spread,2227,1798,Chicken salad spread,1
+Ham salad spread,2864,1799,Ham salad spread,1
+Fish,1073,1800,Fish NS as to type raw,1
+Fish,1041,1802,Fish NS as to type cooked NS as to cooking method,1
+Fish,2351,1803,Fish NS as to type baked or broiled made with oil,1
+Fish,619,1804,Fish NS as to type baked or broiled made with butter,1
+Fish,549,1806,Fish NS as to type baked or broiled made with margarine,1
+Fish,1587,1807,Fish NS as to type baked or broiled no added fat,1
+Fish,1925,1808,Fish NS as to type baked or broiled made with cooking spray,1
+Fish,1115,1809,Fish NS as to type coated baked or broiled made with oil,1
+Fish,2953,1811,Fish NS as to type coated baked or broiled made with butter,1
+Fish,630,1812,Fish NS as to type coated baked or broiled made with margarine,1
+Fish,2718,1813,Fish NS as to type coated baked or broiled no added fat,1
+Fish,2268,1815,Fish NS as to type coated baked or broiled made with cooking spray,1
+Fish,752,1816,Fish NS as to type coated fried made with oil,1
+Fish,2908,1817,Fish NS as to type coated fried made with butter,1
+Fish,1497,1819,Fish NS as to type coated fried made with margarine,1
+Fish,2992,1820,Fish NS as to type coated fried no added fat,1
+Fish,1093,1821,Fish NS as to type coated fried made with cooking spray,1
+Fish,857,1822,Fish NS as to type steamed,1
+Fish,2380,1824,Fish NS as to type dried,1
+Fish,1396,1825,Fish NS as to type canned,1
+Fish,1683,1826,Fish NS as to type smoked,1
+Fish,538,1828,Fish NS as to type from fast food,1
+Fish stick,1375,1829,Fish stick patty or nugget from fast food,1
+Fish stick,602,1830,Fish stick patty or nugget from restaurant home or other place,1
+Anchovy,2275,1832,Anchovy cooked NS as to cooking method,1
+Anchovy,1390,1833,Anchovy canned,1
+Barracuda,2914,1834,Barracuda cooked NS as to cooking method,1
+Barracuda,809,1835,Barracuda baked or broiled fat added,1
+Barracuda,946,1837,Barracuda baked or broiled no added fat,1
+Barracuda,590,1838,Barracuda coated baked or broiled fat added,1
+Barracuda,867,1839,Barracuda coated baked or broiled no added fat,1
+Barracuda,2151,1841,Barracuda coated fried,1
+Barracuda,1890,1842,Barracuda steamed or poached,1
+Carp,890,1843,Carp cooked NS as to cooking method,1
+Carp,1058,1845,Carp baked or broiled fat added,1
+Carp,2236,1846,Carp baked or broiled no added fat,1
+Carp,2902,1847,Carp coated baked or broiled fat added,1
+Carp,2089,1848,Carp coated baked or broiled no added fat,1
+Carp,2826,1850,Carp coated fried,1
+Carp,1174,1851,Carp steamed or poached,1
+Carp,1303,1852,Carp smoked,1
+Catfish,2041,1854,Catfish cooked NS as to cooking method,1
+Catfish,1834,1855,Catfish baked or broiled made with oil,1
+Catfish,1707,1856,Catfish baked or broiled made with butter,1
+Catfish,965,1858,Catfish baked or broiled made with margarine,1
+Catfish,1395,1859,Catfish baked or broiled no added fat,1
+Catfish,880,1860,Catfish baked or broiled made with cooking spray,1
+Catfish,2351,1861,Catfish coated baked or broiled made with oil,1
+Catfish,1808,1863,Catfish coated baked or broiled made with butter,1
+Catfish,2298,1864,Catfish coated baked or broiled made with margarine,1
+Catfish,2982,1865,Catfish coated baked or broiled no added fat,1
+Catfish,1379,1867,Catfish coated baked or broiled made with cooking spray,1
+Catfish,1993,1868,Catfish coated fried made with oil,1
+Catfish,2535,1869,Catfish coated fried made with butter,1
+Catfish,1665,1871,Catfish coated fried made with margarine,1
+Catfish,2696,1872,Catfish coated fried no added fat,1
+Catfish,2934,1873,Catfish coated fried made with cooking spray,1
+Catfish,1208,1874,Catfish steamed or poached,1
+Cod,2110,1876,Cod cooked NS as to cooking method,1
+Cod,2549,1877,Cod baked or broiled made with oil,1
+Cod,1513,1878,Cod baked or broiled made with butter,1
+Cod,2201,1880,Cod baked or broiled made with margarine,1
+Cod,1863,1881,Cod baked or broiled no added fat,1
+Cod,1809,1882,Cod baked or broiled made with cooking spray,1
+Cod,1268,1884,Cod coated baked or broiled made with oil,1
+Cod,854,1885,Cod coated baked or broiled made with butter,1
+Cod,2563,1886,Cod coated baked or broiled made with margarine,1
+Cod,1095,1887,Cod coated baked or broiled no added fat,1
+Cod,2547,1889,Cod coated baked or broiled made with cooking spray,1
+Cod,1498,1890,Cod coated fried made with oil,1
+Cod,2417,1891,Cod coated fried made with butter,1
+Cod,2348,1893,Cod coated fried made with margarine,1
+Cod,2909,1894,Cod coated fried no added fat,1
+Cod,2533,1895,Cod coated fried made with cooking spray,1
+Cod,1611,1897,Cod steamed or poached,1
+Cod,551,1898,Cod dried salted,1
+Cod,872,1899,Cod dried salted salt removed in water,1
+Cod,2808,1900,Cod smoked,1
+Croaker,2528,1902,Croaker cooked NS as to cooking method,1
+Croaker,595,1903,Croaker baked or broiled fat added,1
+Croaker,821,1904,Croaker baked or broiled no added fat,1
+Croaker,645,1906,Croaker coated baked or broiled fat added,1
+Croaker,1802,1907,Croaker coated baked or broiled no added fat,1
+Croaker,1910,1908,Croaker coated fried,1
+Croaker,1312,1910,Croaker steamed or poached,1
+Eel,1991,1911,Eel cooked NS as to cooking method,1
+Eel,1332,1912,Eel steamed or poached,1
+Eel,1556,1913,Eel smoked,1
+Flounder,2846,1915,Flounder raw,1
+Flounder,1908,1916,Flounder cooked NS as to cooking method,1
+Flounder,1771,1917,Flounder baked or broiled made with oil,1
+Flounder,1293,1919,Flounder baked or broiled made with butter,1
+Flounder,1300,1920,Flounder baked or broiled made with margarine,1
+Flounder,2780,1921,Flounder baked or broiled no added fat,1
+Flounder,2251,1923,Flounder baked or broiled made with cooking spray,1
+Flounder,634,1924,Flounder coated baked or broiled made with oil,1
+Flounder,2374,1925,Flounder coated baked or broiled made with butter,1
+Flounder,2766,1926,Flounder coated baked or broiled made with margarine,1
+Flounder,1553,1928,Flounder coated baked or broiled no added fat,1
+Flounder,600,1929,Flounder coated baked or broiled made with cooking spray,1
+Flounder,1312,1930,Flounder coated fried made with oil,1
+Flounder,2961,1932,Flounder coated fried made with butter,1
+Flounder,2173,1933,Flounder coated fried made with margarine,1
+Flounder,1397,1934,Flounder coated fried no added fat,1
+Flounder,856,1936,Flounder coated fried made with cooking spray,1
+Flounder,1703,1937,Flounder steamed or poached,1
+Flounder,1001,1938,Flounder smoked,1
+Haddock,1940,1939,Haddock cooked NS as to cooking method,1
+Haddock,2445,1941,Haddock baked or broiled fat added,1
+Haddock,707,1942,Haddock baked or broiled no added fat,1
+Haddock,1205,1943,Haddock coated baked or broiled fat added,1
+Haddock,740,1945,Haddock coated baked or broiled no added fat,1
+Haddock,1797,1946,Haddock coated fried,1
+Haddock,2853,1947,Haddock steamed or poached,1
+Haddock,2918,1949,Haddock smoked,1
+Halibut,1736,1950,Halibut raw,1
+Halibut,2855,1951,Halibut cooked NS as to cooking method,1
+Halibut,2874,1952,Halibut baked or broiled made with oil,1
+Halibut,1669,1954,Halibut baked or broiled made with butter,1
+Halibut,838,1955,Halibut baked or broiled made with margarine,1
+Halibut,2053,1956,Halibut baked or broiled no added fat,1
+Halibut,1069,1958,Halibut baked or broiled made with cooking spray,1
+Halibut,1018,1959,Halibut coated baked or broiled made with oil,1
+Halibut,1151,1960,Halibut coated baked or broiled made with butter,1
+Halibut,609,1962,Halibut coated baked or broiled made with margarine,1
+Halibut,762,1963,Halibut coated baked or broiled no added fat,1
+Halibut,2194,1964,Halibut coated baked or broiled made with cooking spray,1
+Halibut,1133,1965,Halibut coated fried made with oil,1
+Halibut,1905,1967,Halibut coated fried made with butter,1
+Halibut,1469,1968,Halibut coated fried made with margarine,1
+Halibut,2564,1969,Halibut coated fried no added fat,1
+Halibut,1404,1971,Halibut coated fried made with cooking spray,1
+Halibut,2636,1972,Halibut steamed or poached,1
+Halibut,2425,1973,Halibut smoked,1
+Herring,1473,1975,Herring raw,1
+Herring,2481,1976,Herring cooked NS as to cooking method,1
+Herring,1461,1977,Herring baked or broiled fat added,1
+Herring,1897,1978,Herring baked or broiled no added fat,1
+Herring,1435,1980,Herring coated baked or broiled fat added,1
+Herring,1006,1981,Herring coated baked or broiled no added fat,1
+Herring,961,1982,Herring coated fried,1
+Herring,2440,1984,Herring pickled in cream sauce,1
+Herring,2314,1985,Herring dried salted,1
+Herring,888,1986,Herring pickled,1
+Herring,2728,1988,Herring smoked kippered,1
+Mackerel,1935,1989,Mackerel raw,1
+Mackerel,1217,1990,Mackerel cooked NS as to cooking method,1
+Mackerel,586,1991,Mackerel baked or broiled fat added,1
+Mackerel,1521,1993,Mackerel baked or broiled no added fat,1
+Mackerel,1540,1994,Mackerel coated baked or broiled fat added,1
+Mackerel,2217,1995,Mackerel coated baked or broiled no added fat,1
+Mackerel,2112,1997,Mackerel coated fried,1
+Mackerel,738,1998,Mackerel pickled,1
+Mackerel,1087,1999,Mackerel canned,1
+Mackerel,2955,2001,Mackerel smoked,1
+Mullet,1159,2002,Mullet raw,1
+Mullet,933,2003,Mullet cooked NS as to cooking method,1
+Mullet,1219,2004,Mullet baked or broiled fat added,1
+Mullet,1675,2006,Mullet baked or broiled no added fat,1
+Mullet,2035,2007,Mullet coated baked or broiled fat added,1
+Mullet,1755,2008,Mullet coated baked or broiled no added fat,1
+Mullet,1625,2010,Mullet coated fried,1
+Mullet,604,2011,Mullet steamed or poached,1
+Ocean perch,2182,2012,Ocean perch raw,1
+Ocean perch,1922,2014,Ocean perch cooked NS as to cooking method,1
+Ocean perch,2049,2015,Ocean perch baked or broiled fat added,1
+Ocean perch,2104,2016,Ocean perch baked or broiled no added fat,1
+Ocean perch,834,2017,Ocean perch coated baked or broiled fat added,1
+Ocean perch,2826,2019,Ocean perch coated baked or broiled no added fat,1
+Ocean perch,1529,2020,Ocean perch coated fried,1
+Ocean perch,2971,2021,Ocean perch steamed or poached,1
+Perch,621,2023,Perch cooked NS as to cooking method,1
+Perch,2172,2024,Perch baked or broiled made with oil,1
+Perch,2530,2025,Perch baked or broiled made with butter,1
+Perch,2533,2027,Perch baked or broiled made with margarine,1
+Perch,1990,2028,Perch baked or broiled no added fat,1
+Perch,1088,2029,Perch baked or broiled made with cooking spray,1
+Perch,2015,2030,Perch coated baked or broiled made with oil,1
+Perch,1167,2032,Perch coated baked or broiled made with butter,1
+Perch,2655,2033,Perch coated baked or broiled made with margarine,1
+Perch,2905,2034,Perch coated baked or broiled no added fat,1
+Perch,568,2036,Perch coated baked or broiled made with cooking spray,1
+Perch,1643,2037,Perch coated fried made with oil,1
+Perch,2304,2038,Perch coated fried made with butter,1
+Perch,1355,2040,Perch coated fried made with margarine,1
+Perch,2681,2041,Perch coated fried no added fat,1
+Perch,1439,2042,Perch coated fried made with cooking spray,1
+Perch,1415,2043,Perch steamed or poached,1
+Pike,2524,2045,Pike cooked NS as to cooking method,1
+Pike,2802,2046,Pike baked or broiled fat added,1
+Pike,2613,2047,Pike baked or broiled no added fat,1
+Pike,513,2049,Pike coated baked or broiled fat added,1
+Pike,900,2050,Pike coated baked or broiled no added fat,1
+Pike,2682,2051,Pike coated fried,1
+Pike,2710,2053,Pike steamed or poached,1
+Pompano,724,2054,Pompano raw,1
+Pompano,1779,2055,Pompano cooked NS as to cooking method,1
+Pompano,1984,2056,Pompano baked or broiled fat added,1
+Pompano,2643,2058,Pompano baked or broiled no added fat,1
+Pompano,830,2059,Pompano coated baked or broiled fat added,1
+Pompano,2336,2060,Pompano coated baked or broiled no added fat,1
+Pompano,2771,2062,Pompano coated fried,1
+Pompano,1257,2063,Pompano steamed or poached,1
+Pompano,2651,2064,Pompano smoked,1
+Porgy,2408,2066,Porgy raw,1
+Porgy,1412,2067,Porgy cooked NS as to cooking method,1
+Porgy,523,2068,Porgy baked or broiled fat added,1
+Porgy,1395,2069,Porgy baked or broiled no added fat,1
+Porgy,2625,2071,Porgy coated baked or broiled fat added,1
+Porgy,2756,2072,Porgy coated baked or broiled no added fat,1
+Porgy,2332,2073,Porgy coated fried,1
+Porgy,1143,2075,Porgy steamed or poached,1
+Ray,2448,2076,Ray cooked NS as to cooking method,1
+Ray,843,2077,Ray baked or broiled fat added,1
+Ray,690,2079,Ray baked or broiled no added fat,1
+Ray,1185,2080,Ray coated baked or broiled fat added,1
+Ray,1994,2081,Ray coated baked or broiled no added fat,1
+Ray,2512,2082,Ray coated fried,1
+Ray,977,2084,Ray steamed or poached,1
+Salmon,1722,2085,Salmon raw,1
+Salmon,2092,2086,Salmon cooked NS as to cooking method,1
+Salmon,1492,2088,Salmon baked or broiled made with oil,1
+Salmon,1911,2089,Salmon baked or broiled made with butter,1
+Salmon,704,2090,Salmon baked or broiled made with margarine,1
+Salmon,1240,2092,Salmon baked or broiled no added fat,1
+Salmon,1173,2093,Salmon baked or broiled made with cooking spray,1
+Salmon,2438,2094,Salmon coated baked or broiled made with oil,1
+Salmon,2125,2095,Salmon coated baked or broiled made with butter,1
+Salmon,2785,2097,Salmon coated baked or broiled made with margarine,1
+Salmon,782,2098,Salmon coated baked or broiled no added fat,1
+Salmon,2197,2099,Salmon coated baked or broiled made with cooking spray,1
+Salmon,1466,2101,Salmon coated fried made with oil,1
+Salmon,2766,2102,Salmon coated fried made with butter,1
+Salmon,2076,2103,Salmon coated fried made with margarine,1
+Salmon,1156,2105,Salmon coated fried no added fat,1
+Salmon,720,2106,Salmon coated fried made with cooking spray,1
+Salmon,1672,2107,Salmon steamed or poached,1
+Salmon,743,2108,Salmon dried,1
+Salmon,2256,2110,Salmon canned,1
+Salmon,3000,2111,Salmon smoked,1
+Sardines,2308,2112,Sardines cooked,1
+Sardines,1033,2114,Sardines dried,1
+Sardines,1249,2115,Sardines canned in oil,1
+Sardines,2369,2116,Sardines skinless boneless packed in water,1
+Sea bass,1414,2118,Sea bass cooked NS as to cooking method,1
+Sea bass,2691,2119,Sea bass baked or broiled fat added,1
+Sea bass,928,2120,Sea bass baked or broiled no added fat,1
+Sea bass,873,2121,Sea bass coated baked or broiled fat added,1
+Sea bass,2373,2123,Sea bass coated baked or broiled no added fat,1
+Sea bass,1209,2124,Sea bass coated fried,1
+Sea bass,2080,2125,Sea bass steamed or poached,1
+Sea bass,2053,2127,Sea bass pickled,1
+Shark,2901,2128,Shark cooked NS as to cooking method,1
+Shark,962,2129,Shark baked or broiled fat added,1
+Shark,2922,2131,Shark baked or broiled no added fat,1
+Shark,2580,2132,Shark coated baked or broiled fat added,1
+Shark,986,2133,Shark coated baked or broiled no added fat,1
+Shark,1221,2134,Shark coated fried,1
+Shark,1819,2136,Shark steamed or poached,1
+Sturgeon,2172,2137,Sturgeon cooked NS as to cooking method,1
+Sturgeon,2393,2138,Sturgeon baked or broiled fat added,1
+Sturgeon,1337,2140,Sturgeon steamed,1
+Sturgeon,2693,2141,Sturgeon coated fried,1
+Sturgeon,1864,2142,Sturgeon smoked,1
+Swordfish,2870,2144,Swordfish cooked NS as to cooking method,1
+Swordfish,2903,2145,Swordfish baked or broiled fat added,1
+Swordfish,925,2146,Swordfish baked or broiled no added fat,1
+Swordfish,2454,2147,Swordfish coated baked or broiled fat added,1
+sda,123,323232,Swordfish coated baked or broiled fat added,1
