@@ -2,7 +2,6 @@
 An online store having features for both buyer and seller using core DSA concepts.
 # Online Shopping System
 
-![Project Image](project_image.png) <!-- Add an image showcasing your project -->
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +13,7 @@ An online store having features for both buyer and seller using core DSA concept
 - [Time Management](#time-management)
 - [User Authentication](#user-authentication)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 The Online Shopping System is a full-fledged e-commerce platform designed to provide users with a seamless online shopping experience. This project offers a comprehensive set of features for both buyers and sellers, including product management, a shopping cart, order processing, and user authentication.
@@ -61,9 +60,4 @@ User authentication is implemented to ensure secure access. The `authentication(
 ## Contributing
 Contributions are welcome! If you have any ideas, feature requests, or bug reports, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-**Note:** This README is a template. You should replace placeholders (e.g., `your_executable_name`, `project_image.png`) with actual information and customize it further based on your project's specific details and needs.
